@@ -6,6 +6,8 @@ node_modules
 .quasar
 /dist
 /quasar.config.*.temporary.compiled*
+/packages/*/dist
+/packages/*/node_modules
 
 # Cordova related directories and files
 /src-cordova/node_modules
@@ -14,6 +16,7 @@ node_modules
 /src-cordova/www
 
 # Capacitor related directories and files
+/src-capacitor
 /src-capacitor/www
 /src-capacitor/node_modules
 

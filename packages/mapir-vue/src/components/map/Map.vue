@@ -15,14 +15,14 @@ import withAsyncActions from "./mixins/withAsyncActions";
 import mainPackage from "../../../package.json";
 
 export default {
-  name: "Map",
+  name: "MapContainer",
   mixins: [withWatchers, withAsyncActions, withPrivateMethods, withEvents],
   props: {
     mapboxGl: {
       type: Object,
-      default: null
+      default: null,
     },
-    ...options
+    ...options,
   },
 
   provide() {
@@ -36,7 +36,7 @@ export default {
       },
       get actions() {
         return self.actions;
-      }
+      },
     };
   },
 
@@ -75,17 +75,17 @@ export default {
     vueVersion() {
       let vueversion;
       Object.keys(mainPackage)
-        .filter(i => i.includes("pendenc"))
-        .forEach(item => {
+        .filter((i) => i.includes("pendenc"))
+        .forEach((item) => {
           if (mainPackage[item]["vue"] != undefined)
             vueversion = mainPackage[item]["vue"];
         });
-      vueversion = vueversion ? vueversion : ''; 
+      vueversion = vueversion ? vueversion : "";
       return vueversion.slice(1);
     },
     componentVersion() {
       return mainPackage.version;
-    }
+    },
   },
 
   created() {
@@ -98,14 +98,14 @@ export default {
 
   mounted() {
     let _this = this;
-    this.$_loadMap().then(map => {
+    this.$_loadMap().then((map) => {
       this.map = map;
-      let validStatuses = ['unavailable', 'error'];
+      let validStatuses = ["unavailable", "error"];
       if (validStatuses.includes(_this.mapbox.getRTLTextPluginStatus())) {
         if (this.RTLTextPluginUrl !== undefined) {
-          this.mapbox.setRTLTextPlugin (
+          this.mapbox.setRTLTextPlugin(
             this.RTLTextPluginUrl,
-            this.$_RTLTextPluginError
+            this.$_RTLTextPluginError,
           );
         }
       }
@@ -130,11 +130,11 @@ export default {
     this.$refs.container.appendChild(holder);
   },
 
-  beforeDestroy() {
+  beforeUnmount() {
     this.$nextTick(() => {
       if (this.map) this.map.remove();
     });
-  }
+  },
 };
 </script>
 
@@ -142,9 +142,9 @@ export default {
 /* @import url("https://api.mapbox.com/mapbox-gl-js/v1.6.0/mapbox-gl.css"); */
 
 .mapboxgl-ctrl.mapboxgl-ctrl-attrib {
-    padding: 0 5px;
-    background-color: unset;
-    margin: 7px;
+  padding: 0 5px;
+  background-color: unset;
+  margin: 7px;
 }
 
 .map-wrapper {

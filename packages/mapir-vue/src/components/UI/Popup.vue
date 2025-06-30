@@ -1,16 +1,10 @@
 <template>
   <div style="display: none">
-    <!-- @slot Slot for popup content -->
     <slot />
   </div>
 </template>
 
-<script setup>
-/**
- * Popup component.
- * @see See [Mapbox Gl JS Popup](https://www.mapbox.com/mapbox-gl-js/api/#popup)
- */
-import { inject } from "vue";
+<script>
 import withEvents from "../../lib/withEvents";
 import withSelfEvents from "./withSelfEvents";
 
@@ -18,12 +12,14 @@ const popupEvents = {
   open: "open",
   close: "close",
 };
-</script>
 
-<script>
+/**
+ * Popup component.
+ * @see See [Mapbox Gl JS Popup](https://www.mapbox.com/mapbox-gl-js/api/#popup)
+ */
 export default {
-  // name: "Popup",
-  // mixins: [withEvents, withSelfEvents],
+  name: "Popup",
+  mixins: [withEvents, withSelfEvents],
 
   inject: {
     mapbox: {
@@ -158,7 +154,7 @@ export default {
     this.initial = false;
   },
 
-  beforeDestroy() {
+  beforeUnmount() {
     if (this.map) {
       this.popup.remove();
       this.$_emitEvent("removed");

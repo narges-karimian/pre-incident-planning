@@ -1,8 +1,6 @@
 <template>
   <div style="display: none">
-    <!-- slot for custom marker -->
     <slot name="marker" />
-    <!-- slot for popup -->
     <slot v-if="marker" />
   </div>
 </template>
@@ -14,18 +12,19 @@ import withSelfEvents from "./withSelfEvents";
 const markerEvents = {
   drag: "drag",
   dragstart: "dragstart",
-  dragend: "dragend"
+  dragend: "dragend",
 };
 
 const markerDOMEvents = {
   click: "click",
   mouseenter: "mouseenter",
-  mouseleave: "mouseleave"
+  mouseleave: "mouseleave",
 };
 
 export default {
   name: "MapMarker",
   mixins: [withEvents, withSelfEvents],
+  emits: ["update:coordinates"],
 
   inject: ["mapbox", "map"],
 
@@ -34,42 +33,41 @@ export default {
     return {
       get marker() {
         return self.marker;
-      }
+      },
     };
   },
 
   props: {
-    // mapbox marker options
     offset: {
       type: [Object, Array],
-      default: () => [0, 0]
+      default: () => [0, 0],
     },
     coordinates: {
       type: Array,
-      required: true
+      required: true,
     },
     color: {
       type: String,
-      default: 'red'
+      default: "red",
     },
     anchor: {
       type: String,
-      default: "center"
+      default: "center",
     },
     draggable: {
       type: Boolean,
-      default: false
+      default: false,
     },
     kind: {
       type: String,
-      default: 'normal' // can be 'circle' for a white circle marker
-    }
+      default: "normal",
+    },
   },
 
   data() {
     return {
       initial: true,
-      marker: undefined
+      marker: undefined,
     };
   },
 
@@ -81,24 +79,27 @@ export default {
     draggable(next) {
       if (this.initial) return;
       this.marker.setDraggable(next);
-    }
+    },
   },
 
   mounted() {
-    var markerElement = document.createElement("div");
-    markerElement.className = `map-marker ${this.$props.color} ${this.$props.kind || ''}`;
+    let markerElement = document.createElement("div");
+    markerElement.className = `map-marker ${this.$props.color} ${this.$props.kind || ""}`;
 
     const markerOptions = {
       element: markerElement,
-      ...this.$props
+      ...this.$props,
     };
-    if (this.$slots.marker) {
-      markerOptions.element = this.$slots.marker[0].elm;
+
+    const slotVNode = this.$slots.marker?.();
+    if (slotVNode && slotVNode.length && slotVNode[0].el) {
+      markerOptions.element = slotVNode[0].el;
     }
+
     this.marker = new this.mapbox.Marker(markerOptions);
 
-    if (this.$listeners["update:coordinates"]) {
-      this.marker.on("dragend", event => {
+    if (this.$.vnode.props?.["onUpdate:coordinates"]) {
+      this.marker.on("dragend", (event) => {
         let newCoordinates;
         if (this.coordinates instanceof Array) {
           newCoordinates = [event.target._lngLat.lng, event.target._lngLat.lat];
@@ -116,7 +117,7 @@ export default {
     this.$_addMarker();
   },
 
-  beforeDestroy() {
+  beforeUnmount() {
     if (this.map !== undefined && this.marker !== undefined) {
       this.marker.remove();
     }
@@ -134,9 +135,9 @@ export default {
     },
 
     $_bindMarkerDOMEvents() {
-      Object.keys(this.$listeners).forEach(key => {
-        if (Object.values(markerDOMEvents).includes(key)) {
-          this.marker._element.addEventListener(key, event => {
+      Object.keys(markerDOMEvents).forEach((key) => {
+        if (this.$.vnode.props?.[`on${key[0].toUpperCase()}${key.slice(1)}`]) {
+          this.marker._element.addEventListener(key, (event) => {
             this.$_emitSelfEvent(event);
           });
         }
@@ -150,14 +151,14 @@ export default {
 
     togglePopup() {
       return this.marker.togglePopup();
-    }
-  }
+    },
+  },
 };
 </script>
 
 <style>
 .map-marker {
-  background-image: url('~./assets/marker-default-blue.svg');
+  background-image: url("~./assets/marker-default-blue.svg");
   background-size: cover;
   width: 30px;
   height: 30px;
@@ -165,15 +166,15 @@ export default {
   cursor: pointer;
 }
 .map-marker.blue {
-  background-image: url('~./assets/marker-default-blue.svg');
+  background-image: url("~./assets/marker-default-blue.svg");
 }
 .map-marker.red {
-  background-image: url('~./assets/marker-default-red.svg');
+  background-image: url("~./assets/marker-default-red.svg");
 }
 .map-marker.green {
-  background-image: url('~./assets/marker-default-green.svg');
+  background-image: url("~./assets/marker-default-green.svg");
 }
 .map-marker.circle {
-  background-image: url('~./assets/marker-circle-white.svg');
+  background-image: url("~./assets/marker-circle-white.svg");
 }
 </style>
