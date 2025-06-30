@@ -1,1 +1,33 @@
 // app global css in SCSS form
+@font-face {
+  font-family: YekanBakh;
+  src: url(./fonts/yekan-bakh/YekanBakh-VF.woff);
+}
+
+@font-face {
+  font-family: Peyda;
+  weight: 400;
+  src: url(./fonts/peyda/peyda-regular.ttf);
+}
+
+@font-face {
+  font-family: Peyda;
+  weight: 500;
+  src: url(./fonts/peyda/peyda-medium.ttf);
+}
+
+@font-face {
+  font-family: Peyda;
+  weight: 600;
+  src: url(./fonts/peyda/peyda-bold.ttf);
+}
+
+@font-face {
+  font-family: Peyda;
+  weight: 700;
+  src: url(./fonts/peyda/peyda-semi-bold.ttf);
+}
+
+.my-font {
+  font-family: 'YekanBakh', 'Peyda';
+}
