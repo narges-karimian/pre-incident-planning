@@ -1,4 +1,4 @@
-import { OpenStreetMapClient } from 'src/clients'
+import { OpenStreetMapClient, PIP } from 'src/clients'
 
 export default {
   async search({ query, limit = 10 }) {
@@ -16,6 +16,18 @@ export default {
       return response
     } catch (error) {
       console.log('Search action: ', error)
+      return Promise.reject(error)
+    }
+  },
+
+  async searchBuildingInfo({ lat, lng }) {
+    try {
+      const response = await PIP.get('/building/building-search', {
+        params: { lat, lng },
+      })
+      return response[0]
+    } catch (error) {
+      console.log('Search Building action: ', error)
       return Promise.reject(error)
     }
   },
