@@ -8,4 +8,5 @@ export const useAuthStore = defineStore('authStore', {
   state,
   actions,
   getters,
+  persist: true,
 })
