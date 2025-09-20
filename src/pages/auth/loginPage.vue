@@ -5,7 +5,7 @@
         <div class="row items-center justify-center q-mb-md">
           <div class="col-auto">
             <img src="../../assets/logo-blue.png" alt="Logo" style="height: 40px" />
-            <div class="text-green-6 text-h6">سامانه برنامه ریزی پیش از حادثه</div>
+            <div class="text-primary text-h6">سامانه برنامه ریزی پیش از حادثه</div>
           </div>
         </div>
       </div>
@@ -28,10 +28,13 @@
           <div class="col-4">
             <q-btn
               outline
-              color="green-6"
-              label="دریافت کد"
+              color="primary"
+              :label="
+                isTimerRunning ? `(${remainTime.minutes}:${remainTime.seconds})` : 'دریافت کد'
+              "
               class="full-width border-radius-md"
               type="submit"
+              :disable="isTimerRunning"
             />
           </div>
         </q-form>
@@ -44,10 +47,8 @@
             <OtpInput v-model="verificationCode" />
           </div>
 
-          {{ verificationCode }}
-
           <q-btn
-            color="green-6"
+            color="primary"
             label="تایید کد"
             class="full-width q-mb-lg border-radius-md"
             size="md"
@@ -61,30 +62,70 @@
 </template>
 
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 import OtpInput from 'src/components/OtpInput.vue'
+import { useAuthStore } from 'src/stores/auth'
+import useTimer from 'src/composables/useTimer.composable'
+import { useRouter } from 'vue-router'
 
-const phoneNumber = ref('')
+const authStore = useAuthStore()
+const router = useRouter()
+
+const phoneNumber = ref(authStore.userInfo?.phoneNumber || '')
 const verificationCode = ref('')
+
+const {
+  start: startTimer,
+  stop: stopTimer,
+  formattedTime: remainTime,
+  isRunning: isTimerRunning,
+} = useTimer({
+  timeRange: { min: 0, max: 120 },
+  storageKey: phoneNumber.value,
+})
 
 const isCodeComplete = computed(() => {
   return verificationCode.value.length === 6
 })
 
-const sendCode = () => {
+const sendCode = async () => {
   if (phoneNumber.value) {
-    console.log('Sending code to:', phoneNumber.value)
-    // Add your SMS sending logic here
+    try {
+      verificationCode.value = ''
+      await authStore.sendOtp({ phoneNumber: phoneNumber.value })
+      startTimer()
+    } catch (error) {
+      console.error('Failed to send OTP:', error)
+    }
   }
 }
 
-const verifyCode = () => {
+const verifyCode = async () => {
   if (isCodeComplete.value) {
-    // const code = verificationCode.value.join('')
-    console.log('Verifying code:', verificationCode.value)
-    // Add your verification logic here
+    try {
+      await authStore.verifyOtp({
+        phoneNumber: phoneNumber.value,
+        otp: verificationCode.value,
+      })
+      stopTimer()
+      router.push('/')
+    } catch (error) {
+      console.error('Failed to verify OTP:', error)
+    }
   }
 }
+
+// // Watch for phone number changes to update timer storage key
+// watch(phoneNumber, (newPhone) => {
+//   if (newPhone) {
+//     // Update timer storage key when phone number changes
+//     stopTimer()
+//   }
+// })
+
+onMounted(() => {
+  authStore.$reset()
+})
 </script>
 
 <style scoped>
