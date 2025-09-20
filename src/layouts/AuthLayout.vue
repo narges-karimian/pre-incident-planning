@@ -1,7 +1,7 @@
 <template>
   <q-layout view="hHh lpR fFf" class="row">
     <q-page-container class="col-xs-12 col-sm-6 my-font">
-      <q-header class="bg-green-6 text-white">
+      <q-header class="bg-primary text-white">
         <q-toolbar>
           <div class="text-h6">ورود</div>
         </q-toolbar>

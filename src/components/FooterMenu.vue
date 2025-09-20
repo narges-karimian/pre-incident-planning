@@ -7,14 +7,24 @@
     v-model="tab"
   >
     <q-tab name="map" label="نقشه" icon="location_on" />
-    <q-tab name="setting" label="تنظیمات من" icon="account_circle" />
+    <q-tab name="setting" label="پروفایل من" icon="account_circle" />
   </q-tabs>
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, watch } from 'vue'
+import { useRouter } from 'vue-router'
 
 const tab = ref('map')
+const router = useRouter()
+
+watch(tab, (newVal) => {
+  if (newVal === 'setting') {
+    router.push('/profile')
+  } else {
+    router.push('/')
+  }
+})
 </script>
 
 <style scoped>

@@ -76,6 +76,20 @@ export default defineConfig((ctx) => {
         ],
 
         [
+          'unplugin-vue-components/vite',
+          {
+            // Auto import components from this directory
+            dirs: ['src/components'],
+            // Auto import Vue directives
+            directives: true,
+            // Generate TypeScript declaration file
+            dts: false,
+            // Auto import inside Vue files
+            include: [/\.vue$/, /\.vue\?vue/],
+          },
+        ],
+
+        [
           'vite-plugin-checker',
           {
             eslint: {
@@ -92,7 +106,22 @@ export default defineConfig((ctx) => {
     devServer: {
       // https: true,
       open: true, // opens browser window automatically
-      port: ctx.mode.spa ? 8000 : ctx.mode.pwa ? 9000 : 9090,
+      port: ctx.mode.spa ? 8008 : ctx.mode.pwa ? 9000 : 8007,
+      proxy: {
+        // Proxy API calls in development to avoid CORS
+        // '/api': {
+        //   target: 'http://localhost:8000',
+        //   changeOrigin: true,
+        //   secure: false,
+        //   // If your backend does not include the /api prefix, uncomment the line below
+        //   rewrite: (path) => path.replace(/^\/api/, ''),
+        // },
+        '/accounts': {
+          target: 'http://localhost:8000',
+          changeOrigin: true,
+          secure: false,
+        },
+      },
     },
 
     // https://v2.quasar.dev/quasar-cli-vite/quasar-config-file#framework
