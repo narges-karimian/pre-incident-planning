@@ -1,0 +1,259 @@
+{
+  "HazardPointsDetailed": [
+    {
+      "iconId": "MAAA",
+      "iconName": { "key": "Aerial Hazard", "label": "" },
+      "iconDesc": "MAAA",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+
+    {
+      "iconId": "MAAB",
+      "iconName": { "key": "Biohazard", "label": "" },
+      "iconDesc": "MAAB",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+
+    {
+      "iconId": "MAAC",
+      "iconName": { "key": "Bowstring Truss", "label": "" },
+      "iconDesc": "MAAC",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAD",
+      "iconName": { "key": "Building Over or Next to Water", "label": "" },
+      "iconDesc": "MAAD",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAE",
+      "iconName": { "key": "Close Exposure", "label": "" },
+      "iconDesc": "MAAE",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+
+    {
+      "iconId": "MAAF",
+      "iconName": "Collapse Likely",
+      "iconDesc": "MAAF",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAG",
+      "iconName": { "key": "Common Attic", "label": "" },
+      "iconDesc": "MAAG",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAH",
+      "iconName": { "key": "Confined Space", "label": "" },
+      "iconDesc": "MAAH",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAI",
+      "iconName": { "key": "DO NOT ENTER Building", "label": "" },
+      "iconDesc": "MAAI",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAJ",
+      "iconName": { "key": "DO NOT USE Water", "label": "" },
+      "iconDesc": "MAAJ",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAK",
+      "iconName": { "key": "Electrical Hazards", "label": "" },
+      "iconDesc": "MAAK",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAL",
+      "iconName": { "key": "Evacuation Hazards", "label": "" },
+      "iconDesc": "MAAL",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAM",
+      "iconName": { "key": "Fall Hazards", "label": "" },
+      "iconDesc": "MAAM",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAN",
+      "iconName": { "key": "General Hazards", "label": "" },
+      "iconDesc": "MAAN",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAO",
+      "iconName": { "key": "Hazardous Entry Violent", "label": "" },
+      "iconDesc": "MAAO",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAP",
+      "iconName": { "key": "Hazardous Entry", "label": "" },
+      "iconDesc": "MAAP",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAQ",
+      "iconName": { "key": "Hazardous Shaft", "label": "" },
+      "iconDesc": "MAAQ",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAR",
+      "iconName": { "key": "Hazardous Voids", "label": "" },
+      "iconDesc": "MAAR",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAS",
+      "iconName": { "key": "High Fire Load", "label": "" },
+      "iconDesc": "MAAS",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAT",
+      "iconName": { "key": "High Occupancy Load", "label": "" },
+      "iconDesc": "MAAT",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAU",
+      "iconName": { "key": "High Pile Storage", "label": "" },
+      "iconDesc": "MAAU",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAV",
+      "iconName": { "key": "Lightweight Floor", "label": "" },
+      "iconDesc": "MAAV",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAW",
+      "iconName": { "key": "Lightweight Roof", "label": "" },
+      "iconDesc": "MAAW",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAX",
+      "iconName": { "key": "Magnetic Hazards", "label": "" },
+      "iconDesc": "MAAX",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAY",
+      "iconName": { "key": "ManTrap or Entrapment", "label": "" },
+      "iconDesc": "MAAY",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MAAZ",
+      "iconName": { "key": "No Roof Operations", "label": "" },
+      "iconDesc": "MAAZ",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABA",
+      "iconName": { "key": "No Water Supply", "label": "" },
+      "iconDesc": "MABA",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABB",
+      "iconName": { "key": "Not Occupied or Abandoned", "label": "" },
+      "iconDesc": "MABB",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABC",
+      "iconName": { "key": "Poison", "label": "" },
+      "iconDesc": "MABC",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABD",
+      "iconName": { "key": "Poor or No Radio Reception", "label": "" },
+      "iconDesc": "MABD",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABE",
+      "iconName": { "key": "Powerline Above", "label": "" },
+      "iconDesc": "MABE",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABF",
+      "iconName": { "key": "Radioactive", "label": "" },
+      "iconDesc": "MABF",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABG",
+      "iconName": { "key": "Safety Zone, Gun Cover", "label": "" },
+      "iconDesc": "MABG",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABH",
+      "iconName": { "key": "Slip Hazards", "label": "" },
+      "iconDesc": "MABH",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABI",
+      "iconName": { "key": "Soft Soil", "label": "" },
+      "iconDesc": "MABI",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABJ",
+      "iconName": { "key": "Truss, General", "label": "" },
+      "iconDesc": "MABJ",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABK",
+      "iconName": { "key": "Truss, Metal", "label": "" },
+      "iconDesc": "MABK",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABL",
+      "iconName": { "key": "Truss, Wood I Beam", "label": "" },
+      "iconDesc": "MABL",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABM",
+      "iconName": { "key": "Truss, Wood", "label": "" },
+      "iconDesc": "MABM",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABN",
+      "iconName": { "key": "HazMat Tank, Horizontal", "label": "" },
+      "iconDesc": "MABN",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABO",
+      "iconName": { "key": "HazMat Tank, Underground", "label": "" },
+      "iconDesc": "MABO",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    },
+    {
+      "iconId": "MABP",
+      "iconName": { "key": "HazMat Tank, Vertical", "label": "" },
+      "iconDesc": "MABP",
+      "category": { "key": "HazardPointsDetailed", "label": "نقاط خطر با جزئیات" }
+    }
+  ]
+}

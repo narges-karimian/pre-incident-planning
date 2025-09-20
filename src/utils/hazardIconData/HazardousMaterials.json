@@ -1,0 +1,259 @@
+{
+  "HazardousMaterials": [
+    {
+      "iconId": "JAAA",
+      "iconName": { "key": "HazMat DOT Placarding, Class 1 Blasting Agent 1.5", "label": "" },
+      "iconDesc": "JAAA",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAB",
+      "iconName": { "key": "HazMat DOT Placarding, Class 1 Explosives 1.1", "label": "" },
+      "iconDesc": "JAAB",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAC",
+      "iconName": { "key": "HazMat DOT Placarding, Class 1 Explosives 1.2", "label": "" },
+      "iconDesc": "JAAC",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAD",
+      "iconName": { "key": "HazMat DOT Placarding, Class 1 Explosives 1.3", "label": "" },
+      "iconDesc": "JAAD",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAE",
+      "iconName": { "key": "HazMat DOT Placarding, Class 1 Explosives 1.4", "label": "" },
+      "iconDesc": "JAAE",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAF",
+      "iconName": { "key": "HazMat DOT Placarding, Class 1 Explosives 1.5", "label": "" },
+      "iconDesc": "JAAF",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAG",
+      "iconName": { "key": "HazMat DOT Placarding, Class 1 Explosives 1.6", "label": "" },
+      "iconDesc": "JAAG",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAH",
+      "iconName": { "key": " HazMat DOT Placarding, Class 1 Explosives", "label": "" },
+      "iconDesc": "JAAH",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAI",
+      "iconName": { "key": "HazMat DOT Placarding, Class 2 Chlorine", "label": "" },
+      "iconDesc": "JAAI",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAJ",
+      "iconName": { "key": "HazMat DOT Placarding, Class 2 Flammable Gas 2.1", "label": "" },
+      "iconDesc": "JAAJ",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAK",
+      "iconName": { "key": "HazMat DOT Placarding, Class 2 Flammable Liquid", "label": "" },
+      "iconDesc": "JAAK",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAL",
+      "iconName": { "key": "HazMat DOT Placarding, Class 2 Flammable Solid", "label": "" },
+      "iconDesc": "JAAL",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAM",
+      "iconName": { "key": "HazMat DOT Placarding, Class 2 Inhalation Hazards 2.3", "label": "" },
+      "iconDesc": "JAAM",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAN",
+      "iconName": { "key": "HazMat DOT Placarding, Class 2 Non Flammable Gas 2.2", "label": "" },
+      "iconDesc": "JAAN",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAO",
+      "iconName": { "key": "HazMat DOT Placarding, Class 2 Oxygen 2.2", "label": "" },
+      "iconDesc": "JAAO",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAP",
+      "iconName": { "key": "HazMat DOT Placarding, Class 3 Combustible", "label": "" },
+      "iconDesc": "JAAP",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAQ",
+      "iconName": { "key": "HazMat DOT Placarding, Class 3 Flammable", "label": "" },
+      "iconDesc": "JAAQ",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAR",
+      "iconName": { "key": "HazMat DOT Placarding, Class 3 Fuel Oil", "label": "" },
+      "iconDesc": "JAAR",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAS",
+      "iconName": { "key": "HazMat DOT Placarding, Class 3 Gasoline", "label": "" },
+      "iconDesc": "JAAS",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAT",
+      "iconName": { "key": "HazMat DOT Placarding, Class 4 Dangerous When Wet", "label": "" },
+      "iconDesc": "JAAT",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAU",
+      "iconName": { "key": "HazMat DOT Placarding, Class 4 Flammable Solids", "label": "" },
+      "iconDesc": "JAAU",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAV",
+      "iconName": {
+        "key": "HazMat DOT Placarding, Class 4 Spontaneously Combustible",
+        "label": ""
+      },
+      "iconDesc": "JAAV",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAW",
+      "iconName": { "key": "HazMat DOT Placarding, Class 5 Organic Peroxides 5.1", "label": "" },
+      "iconDesc": "JAAW",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAX",
+      "iconName": { "key": " HazMat DOT Placarding, Class 5 Organic Peroxides 5.2", "label": "" },
+      "iconDesc": "JAAX",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAY",
+      "iconName": { "key": "HazMat DOT Placarding, Class 6 Infectious", "label": "" },
+      "iconDesc": "JAAY",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JAAZ",
+      "iconName": { "key": "HazMat DOT Placarding, Class 6 Inhalation Hazards", "label": "" },
+      "iconDesc": "JAAZ",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABA",
+      "iconName": { "key": "HazMat DOT Placarding, Class 6 Poison Gas", "label": "" },
+      "iconDesc": "JABA",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABB",
+      "iconName": { "key": "HazMat DOT Placarding, Class 6 Poisons", "label": "" },
+      "iconDesc": "JABB",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABC",
+      "iconName": { "key": "HazMat DOT Placarding, Class 6 Toxic Gas", "label": "" },
+      "iconDesc": "JABC",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABD",
+      "iconName": { "key": "HazMat DOT Placarding, Class 6 Toxic", "label": "" },
+      "iconDesc": "JABD",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABE",
+      "iconName": { "key": " HazMat DOT Placarding, Class 7 Radioactive", "label": "" },
+      "iconDesc": "JABE",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABF",
+      "iconName": { "key": "HazMat DOT Placarding, Class 8 Acids", "label": "" },
+      "iconDesc": "JABF",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABG",
+      "iconName": { "key": "HazMat DOT Placarding, Class 8 Alkaline", "label": "" },
+      "iconDesc": "JABG",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABH",
+      "iconName": { "key": "HazMat DOT Placarding, Class 8 Corrosive", "label": "" },
+      "iconDesc": "JABH",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABI",
+      "iconName": { "key": "HazMat DOT Placarding, Class 9", "label": "" },
+      "iconDesc": "JABI",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABJ",
+      "iconName": { "key": "HazMat DOT Placarding, Class Other, DANGEROUS", "label": "" },
+      "iconDesc": "JABJ",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABK",
+      "iconName": { "key": "HazMat DOT Placarding, Class Other, HOT", "label": "" },
+      "iconDesc": "JABK",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABL",
+      "iconName": { "key": "HazMat DOT Placarding, Class Other Store Away From Food", "label": "" },
+      "iconDesc": "JABL",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABM",
+      "iconName": { "key": "Hazmat General, Option 1", "label": "" },
+      "iconDesc": "JABM",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABN",
+      "iconName": { "key": "Hazmat General, Option 2", "label": "" },
+      "iconDesc": "JABN",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABO",
+      "iconName": { "key": "Hazmat General, Option 3", "label": "" },
+      "iconDesc": "JABO",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    },
+    {
+      "iconId": "JABP",
+      "iconName": { "key": "NFPA 704", "label": "" },
+      "iconDesc": "JABP",
+      "category": { "key": "HazardousMaterials", "label": "مواد خطرناک" }
+    }
+  ]
+}

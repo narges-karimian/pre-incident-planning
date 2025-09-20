@@ -1,0 +1,1315 @@
+{
+  "Preplan": [
+    {
+      "iconId": "CCAA",
+      "iconName": { "key": "Alarm", "label": "" },
+      "iconDesc": "CCAA",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAB",
+      "iconName": { "key": "Alarm Communications, Annunciator Panel", "label": "" },
+      "iconDesc": "CCAB",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAC",
+      "iconName": { "key": "Alarm Control Panel", "label": "" },
+      "iconDesc": "CCAC",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAD",
+      "iconName": { "key": "Alarm Control Panel, Burglar Alarm", "label": "" },
+      "iconDesc": "CCAD",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAE",
+      "iconName": { "key": "Alarm Control Panel, FAC", "label": "" },
+      "iconDesc": "CCAE",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAF",
+      "iconName": { "key": "Alarm Control Panel, Fire Alarm Control Panel", "label": "" },
+      "iconDesc": "CCAF",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAG",
+      "iconName": { "key": "Alarm Control Panel, Switchboard Panel", "label": "" },
+      "iconDesc": "CCAG",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAH",
+      "iconName": { "key": "Alarm Control Panel, Voice Control Panel", "label": "" },
+      "iconDesc": "CCAH",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAI",
+      "iconName": { "key": "FTR", "label": "" },
+      "iconDesc": "CCAI",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAJ",
+      "iconName": { "key": "Reset Panel", "label": "" },
+      "iconDesc": "CCAJ",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAK",
+      "iconName": { "key": "Smoke Panel", "label": "" },
+      "iconDesc": "CCAK",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAL",
+      "iconName": { "key": "Voice Control Panel", "label": "" },
+      "iconDesc": "CCAL",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAM",
+      "iconName": { "key": "Detector Frame", "label": "" },
+      "iconDesc": "CCAM",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAN",
+      "iconName": { "key": "Detector", "label": "" },
+      "iconDesc": "CCAN",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAO",
+      "iconName": { "key": "Duct Detector", "label": "" },
+      "iconDesc": "CCAO",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAP",
+      "iconName": { "key": "Duct Detector, Flame", "label": "" },
+      "iconDesc": "CCAP",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAQ",
+      "iconName": { "key": "Duct Detector, Flow", "label": "" },
+      "iconDesc": "CCAQ",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAR",
+      "iconName": { "key": "Duct Detector, Gas", "label": "" },
+      "iconDesc": "CCAR",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAS",
+      "iconName": { "key": "Duct Detector, Heat", "label": "" },
+      "iconDesc": "CCAS",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAT",
+      "iconName": { "key": "Duct Detector, Level", "label": "" },
+      "iconDesc": "CCAT",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAU",
+      "iconName": { "key": "Duct Detector, Smoke", "label": "" },
+      "iconDesc": "CCAU",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAV",
+      "iconName": { "key": "Gas Detector Pressure", "label": "" },
+      "iconDesc": "CCAV",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAW",
+      "iconName": { "key": "Heat Detector", "label": "" },
+      "iconDesc": "CCAW",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAX",
+      "iconName": { "key": "Smoke Detector", "label": "" },
+      "iconDesc": "CCAX",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAY",
+      "iconName": { "key": "Smoke Detector, Beam", "label": "" },
+      "iconDesc": "CCAY",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCAZ",
+      "iconName": { "key": "Smoke Detector, Flow Switch", "label": "" },
+      "iconDesc": "CCAZ",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBA",
+      "iconName": { "key": "Smoke Detector, Ionization", "label": "" },
+      "iconDesc": "CCBA",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBB",
+      "iconName": { "key": "Smoke Detector, Photoelectric", "label": "" },
+      "iconDesc": "CCBB",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBC",
+      "iconName": { "key": "Smoke Detector, Tamper Detector", "label": "" },
+      "iconDesc": "CCBC",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBD",
+      "iconName": { "key": "Smoke Detector, Tamper Switch", "label": "" },
+      "iconDesc": "CCBD",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBE",
+      "iconName": { "key": "Smoke Detector", "label": "" },
+      "iconDesc": "CCBE",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBF",
+      "iconName": { "key": "Gas Detector", "label": "" },
+      "iconDesc": "CCBF",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBG",
+      "iconName": { "key": "Heat Detector, Fixed Temp", "label": "" },
+      "iconDesc": "CCBG",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBH",
+      "iconName": { "key": "Heat Detector, Rate Compensate", "label": "" },
+      "iconDesc": "CCBH",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBI",
+      "iconName": { "key": "Heat Detector, Rate Fixed", "label": "" },
+      "iconDesc": "CCBI",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBJ",
+      "iconName": { "key": "Heat Detector, Rate of Rise", "label": "" },
+      "iconDesc": "CCBJ",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CCBK",
+      "iconName": { "key": "Heat Detector", "label": "" },
+      "iconDesc": "CCBK",
+      "category": { "key": "AlarmDetectors", "label": "آلارم و آشکارسازها" }
+    },
+    {
+      "iconId": "CDAA",
+      "iconName": { "key": "Plain", "label": "" },
+      "iconDesc": "CDAA",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAB",
+      "iconName": { "key": "Air Handling", "label": "" },
+      "iconDesc": "CDAB",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAC",
+      "iconName": { "key": "CNG", "label": "" },
+      "iconDesc": "CDAC",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAD",
+      "iconName": { "key": "CNG (Compressed Natural Gas), Main", "label": "" },
+      "iconDesc": "CDAD",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAE",
+      "iconName": { "key": "CNG (Compressed Natural Gas), Sub", "label": "" },
+      "iconDesc": "CDAE",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAF",
+      "iconName": { "key": "Electrical", "label": "" },
+      "iconDesc": "CDAF",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAG",
+      "iconName": { "key": "Electrical, Main", "label": "" },
+      "iconDesc": "CDAG",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAH",
+      "iconName": { "key": "Electrical, Sub", "label": "" },
+      "iconDesc": "CDAH",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAI",
+      "iconName": { "key": "Fuel", "label": "" },
+      "iconDesc": "CDAI",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAJ",
+      "iconName": { "key": "Fuel, Main", "label": "" },
+      "iconDesc": "CDAJ",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAK",
+      "iconName": { "key": "Fuel Pipeline", "label": "" },
+      "iconDesc": "CDAK",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAL",
+      "iconName": { "key": "Fuel, Sub", "label": "" },
+      "iconDesc": "CDAL",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAM",
+      "iconName": { "key": "Gas", "label": "" },
+      "iconDesc": "CDAM",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAN",
+      "iconName": { "key": "Gas, Main", "label": "" },
+      "iconDesc": "CDAN",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAO",
+      "iconName": { "key": "Gas, Sub", "label": "" },
+      "iconDesc": "CDAO",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAP",
+      "iconName": { "key": "LNG", "label": "" },
+      "iconDesc": "CDAP",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAQ",
+      "iconName": { "key": "LNG, Main", "label": "" },
+      "iconDesc": "CDAQ",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAR",
+      "iconName": { "key": "LNG, Sub (Propane)", "label": "" },
+      "iconDesc": "CDAR",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAS",
+      "iconName": { "key": "Oxygen", "label": "" },
+      "iconDesc": "CDAS",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAT",
+      "iconName": { "key": "Product Shutoff", "label": "" },
+      "iconDesc": "CDAT",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAU",
+      "iconName": { "key": "Refrigeration", "label": "" },
+      "iconDesc": "CDAU",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAV",
+      "iconName": { "key": "Refrigeration, Main", "label": "" },
+      "iconDesc": "CDAV",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAW",
+      "iconName": { "key": "Refrigeration, Sub", "label": "" },
+      "iconDesc": "CDAW",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAX",
+      "iconName": { "key": "Solar Panel", "label": "" },
+      "iconDesc": "CDAX",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAY",
+      "iconName": { "key": "Solar Panel, Main", "label": "" },
+      "iconDesc": "CDAY",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDAZ",
+      "iconName": { "key": "Solar Panel, Sub", "label": "" },
+      "iconDesc": "CDAZ",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBA",
+      "iconName": { "key": "Steam", "label": "" },
+      "iconDesc": "CDBA",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBB",
+      "iconName": { "key": "Steam, Main", "label": "" },
+      "iconDesc": "CDBB",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBC",
+      "iconName": { "key": "Telecommunications", "label": "" },
+      "iconDesc": "CDBC",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBD",
+      "iconName": { "key": "Telecommunications MAIN", "label": "" },
+      "iconDesc": "CDBD",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBE",
+      "iconName": { "key": "Telecommunications Network", "label": "" },
+      "iconDesc": "CDBE",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBF",
+      "iconName": { "key": "Telecommunications TV", "label": "" },
+      "iconDesc": "CDBF",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBG",
+      "iconName": { "key": "Water Shutoff", "label": "" },
+      "iconDesc": "CDBG",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBH",
+      "iconName": { "key": "Water Shutoff, Main", "label": "" },
+      "iconDesc": "CDBH",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CDBI",
+      "iconName": { "key": "Water Shutoff, Sub", "label": "" },
+      "iconDesc": "CDBI",
+      "category": { "key": "FeatureShutoff", "label": "قطع ویژگی" }
+    },
+    {
+      "iconId": "CBAA",
+      "iconName": {
+        "key": "Fire Department Connection, Combination Sprinkler Standpipe",
+        "label": ""
+      },
+      "iconDesc": "CBAA",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAB",
+      "iconName": { "key": "Fire Department Connection, FDC1", "label": "" },
+      "iconDesc": "CBAB",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAC",
+      "iconName": { "key": "Fire Department Connection, FDC2", "label": "" },
+      "iconDesc": "CBAC",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAD",
+      "iconName": { "key": "Fire Department Connection, Sprinkler Connection", "label": "" },
+      "iconDesc": "CBAD",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAE",
+      "iconName": { "key": "Fire Department Connection, Standpipe Connection", "label": "" },
+      "iconDesc": "CBAE",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAF",
+      "iconName": { "key": "Fire Hose Connection, Hose Connection", "label": "" },
+      "iconDesc": "CBAF",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAG",
+      "iconName": { "key": "Fire Hose Connection, Hose Connection Wet", "label": "" },
+      "iconDesc": "CBAG",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAH",
+      "iconName": { "key": "Fire Pump, With Drive", "label": "" },
+      "iconDesc": "CBAH",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAI",
+      "iconName": { "key": "Fire Pump, without Drive", "label": "" },
+      "iconDesc": "CBAI",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAJ",
+      "iconName": { "key": "Hose Connection, Dry", "label": "" },
+      "iconDesc": "CBAJ",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAK",
+      "iconName": { "key": "Hose Reel, CO2", "label": "" },
+      "iconDesc": "CBAK",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAL",
+      "iconName": { "key": "Hose Reel, Dry Chemical", "label": "" },
+      "iconDesc": "CBAL",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAM",
+      "iconName": { "key": "Hose Reel, Dry", "label": "" },
+      "iconDesc": "CBAM",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAN",
+      "iconName": { "key": "Hose Reel, Foam", "label": "" },
+      "iconDesc": "CBAN",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAO",
+      "iconName": { "key": "Hose Reel, Wet", "label": "" },
+      "iconDesc": "CBAO",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAP",
+      "iconName": { "key": "Monitor, Charged", "label": "" },
+      "iconDesc": "CBAP",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAQ",
+      "iconName": { "key": "Monitor, Dry", "label": "" },
+      "iconDesc": "CBAQ",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAR",
+      "iconName": { "key": "Riser Dry", "label": "" },
+      "iconDesc": "CBAR",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAS",
+      "iconName": { "key": "Riser Wet", "label": "" },
+      "iconDesc": "CBAS",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAT",
+      "iconName": { "key": "Sprinkler Control Valve, Non Indicating Valve", "label": "" },
+      "iconDesc": "CBAT",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAU",
+      "iconName": { "key": "Sprinkler Control Valve, Outside Screw and Yoke", "label": "" },
+      "iconDesc": "CBAU",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAV",
+      "iconName": { "key": "Sprinkler Control Valve, Post Indicating Valve", "label": "" },
+      "iconDesc": "CBAV",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAW",
+      "iconName": { "key": "Sprinkler Control Valve, Wall Post Indicating Valve", "label": "" },
+      "iconDesc": "CBAW",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAX",
+      "iconName": { "key": "Sprinkler Control Valve, Zone Valve", "label": "" },
+      "iconDesc": "CBAX",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAY",
+      "iconName": { "key": "Sprinkler System, Dry", "label": "" },
+      "iconDesc": "CBAY",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBAZ",
+      "iconName": { "key": "Sprinkler System, PreAction", "label": "" },
+      "iconDesc": "CBAZ",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBA",
+      "iconName": { "key": "Sprinkler System, Semi Automatic", "label": "" },
+      "iconDesc": "CBBA",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBB",
+      "iconName": { "key": "Sprinkler System, Sprinkler Deluge", "label": "" },
+      "iconDesc": "CBBB",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBC",
+      "iconName": { "key": "Water Source, Drafting Site", "label": "" },
+      "iconDesc": "CBBC",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBD",
+      "iconName": { "key": "Water Source, Dry Hydrant", "label": "" },
+      "iconDesc": "CBBD",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBE",
+      "iconName": { "key": "Water Source, Hydrant Fire", "label": "" },
+      "iconDesc": "CBBE",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBF",
+      "iconName": { "key": "Water Source, Static", "label": "" },
+      "iconDesc": "CBBF",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBG",
+      "iconName": { "key": "Water Source, Water Inlet", "label": "" },
+      "iconDesc": "CBBG",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBH",
+      "iconName": { "key": "Fire Pump", "label": "" },
+      "iconDesc": "CBBH",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBI",
+      "iconName": { "key": "Sprinkler Control Valve", "label": "" },
+      "iconDesc": "CBBI",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CBBJ",
+      "iconName": { "key": "Sprinkler System, Sprinkler General", "label": "" },
+      "iconDesc": "CBBJ",
+      "category": { "key": "FireSuppression", "label": "سرکوب آتش" }
+    },
+    {
+      "iconId": "CFA",
+      "iconName": { "key": "Knox or Key Box, Door Entry", "label": "" },
+      "iconDesc": "CFA",
+      "category": { "key": "KeyKnoxBox", "label": "جعبه کلید یا ناکس" }
+    },
+    {
+      "iconId": "CFB",
+      "iconName": { "key": "Knox or Key Box, Drug Vault", "label": "" },
+      "iconDesc": "CFB",
+      "category": { "key": "KeyKnoxBox", "label": "جعبه کلید یا ناکس" }
+    },
+    {
+      "iconId": "CFC",
+      "iconName": { "key": "Knox or Key Box, Keycard", "label": "" },
+      "iconDesc": "CFC",
+      "category": { "key": "KeyKnoxBox", "label": "جعبه کلید یا ناکس" }
+    },
+    {
+      "iconId": "CFD",
+      "iconName": { "key": "Knox or Key Box, Key Shunt", "label": "" },
+      "iconDesc": "CFD",
+      "category": { "key": "KeyKnoxBox", "label": "جعبه کلید یا ناکس" }
+    },
+    {
+      "iconId": "CFE",
+      "iconName": { "key": "Knox or Key Box, Plain", "label": "" },
+      "iconDesc": "CFE",
+      "category": { "key": "KeyKnoxBox", "label": "جعبه کلید یا ناکس" }
+    },
+    {
+      "iconId": "CFF",
+      "iconName": { "key": "Knox or Key Box, Residential", "label": "" },
+      "iconDesc": "CFF",
+      "category": { "key": "KeyKnoxBox", "label": "جعبه کلید یا ناکس" }
+    },
+    {
+      "iconId": "CEA",
+      "iconName": { "key": "Elevator", "label": "" },
+      "iconDesc": "CEA",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEB",
+      "iconName": { "key": "Stairs, Double", "label": "" },
+      "iconDesc": "CEB",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEC",
+      "iconName": { "key": "Stairs, Lift", "label": "" },
+      "iconDesc": "CEC",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CED",
+      "iconName": { "key": "Stairs, Spiral", "label": "" },
+      "iconDesc": "CED",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEE",
+      "iconName": { "key": "Stairs, Single", "label": "" },
+      "iconDesc": "CEE",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEF",
+      "iconName": { "key": "Attic Access", "label": "" },
+      "iconDesc": "CEF",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEG",
+      "iconName": { "key": "Crawl Space Hatch", "label": "" },
+      "iconDesc": "CEG",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEH",
+      "iconName": { "key": "Escalator", "label": "" },
+      "iconDesc": "CEH",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEI",
+      "iconName": { "key": "Fire Escape", "label": "" },
+      "iconDesc": "CEI",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEJ",
+      "iconName": { "key": "Hatch", "label": "" },
+      "iconDesc": "CEJ",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CEK",
+      "iconName": { "key": "Roof Access", "label": "" },
+      "iconDesc": "CEK",
+      "category": { "key": "VerticalAccessFeatures", "label": "ویژگی‌های دسترسی عمودی" }
+    },
+    {
+      "iconId": "CAAA",
+      "iconName": { "key": "Addressable Location, Functional area", "label": "" },
+      "iconDesc": "CAAA",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAB",
+      "iconName": { "key": "Addressable Location, Living Space", "label": "" },
+      "iconDesc": "CAAB",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAC",
+      "iconName": { "key": "Addressable Location, Outdoor Space", "label": "" },
+      "iconDesc": "CAAC",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAD",
+      "iconName": { "key": "Addressable Location, Parking", "label": "" },
+      "iconDesc": "CAAD",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAE",
+      "iconName": { "key": "Addressable Location, Repair Build", "label": "" },
+      "iconDesc": "CAAE",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAF",
+      "iconName": { "key": "Addressable Location, Storage", "label": "" },
+      "iconDesc": "CAAF",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAG",
+      "iconName": { "key": "Addressable Location, Utility", "label": "" },
+      "iconDesc": "CAAG",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAH",
+      "iconName": { "key": "Addressable Location, Work Space", "label": "" },
+      "iconDesc": "CAAH",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAI",
+      "iconName": { "key": "Business, Bank", "label": "" },
+      "iconDesc": "CAAI",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAJ",
+      "iconName": { "key": "Business, Grocery", "label": "" },
+      "iconDesc": "CAAJ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAK",
+      "iconName": { "key": "Business, Retail", "label": "" },
+      "iconDesc": "CAAK",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAL",
+      "iconName": { "key": "Business", "label": "" },
+      "iconDesc": "CAAL",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAM",
+      "iconName": { "key": "Childcare, Child", "label": "" },
+      "iconDesc": "CAAM",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAN",
+      "iconName": { "key": "Childcare, Infant", "label": "" },
+      "iconDesc": "CAAN",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAO",
+      "iconName": { "key": "Electrical Room", "label": "" },
+      "iconDesc": "CAAO",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAP",
+      "iconName": { "key": "Electrical, Transformer", "label": "" },
+      "iconDesc": "CAAP",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAQ",
+      "iconName": { "key": "Electrical, Vault", "label": "" },
+      "iconDesc": "CAAQ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAR",
+      "iconName": { "key": "Electrical Generator, Battery", "label": "" },
+      "iconDesc": "CAAR",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAS",
+      "iconName": { "key": "Electrical Generator, Diesel", "label": "" },
+      "iconDesc": "CAAS",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAT",
+      "iconName": { "key": "Electrical Generator, Electrical Battery", "label": "" },
+      "iconDesc": "CAAT",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAU",
+      "iconName": { "key": "Electrical Generator, Electrical", "label": "" },
+      "iconDesc": "CAAU",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAV",
+      "iconName": { "key": "Electrical, Powerlines", "label": "" },
+      "iconDesc": "CAAV",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAW",
+      "iconName": { "key": "Fuel Pump, Diesel", "label": "" },
+      "iconDesc": "CAAW",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAX",
+      "iconName": { "key": "Fuel Pump, Regular", "label": "" },
+      "iconDesc": "CAAX",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAY",
+      "iconName": { "key": "Garbage, Dumpster", "label": "" },
+      "iconDesc": "CAAY",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CAAZ",
+      "iconName": { "key": "Garbage, Garbage Chute", "label": "" },
+      "iconDesc": "CAAZ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABA",
+      "iconName": { "key": "Garbage, Recycling", "label": "" },
+      "iconDesc": "CABA",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABB",
+      "iconName": { "key": "Location, Air Conditioning", "label": "" },
+      "iconDesc": "CABB",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABC",
+      "iconName": { "key": "Location, Auditorium", "label": "" },
+      "iconDesc": "CABC",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABD",
+      "iconName": { "key": "Location, Auto Carport", "label": "" },
+      "iconDesc": "CABD",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABE",
+      "iconName": { "key": "Location, Auto Garage", "label": "" },
+      "iconDesc": "CABE",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABF",
+      "iconName": { "key": "Location, Gym or Arena", "label": "" },
+      "iconDesc": "CABF",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABG",
+      "iconName": { "key": "Location, Institutional", "label": "" },
+      "iconDesc": "CABG",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABH",
+      "iconName": { "key": "Location, Loading Dock", "label": "" },
+      "iconDesc": "CABH",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABI",
+      "iconName": { "key": "Location, Loading Truck Well", "label": "" },
+      "iconDesc": "CABI",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABJ",
+      "iconName": { "key": "Location, Mercantile", "label": "" },
+      "iconDesc": "CABJ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABK",
+      "iconName": { "key": "Location, Parking Not", "label": "" },
+      "iconDesc": "CABK",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABL",
+      "iconName": { "key": "Location, Parking", "label": "" },
+      "iconDesc": "CABL",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABM",
+      "iconName": { "key": "Location, Residential", "label": "" },
+      "iconDesc": "CABM",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABN",
+      "iconName": { "key": "Manual, Operations Manual", "label": "" },
+      "iconDesc": "CABN",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABO",
+      "iconName": { "key": "Manual, Materials Safety Data Sheet", "label": "" },
+      "iconDesc": "CABO",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABP",
+      "iconName": { "key": "Medical, AED", "label": "" },
+      "iconDesc": "CABP",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABQ",
+      "iconName": { "key": "Medical, First Aid", "label": "" },
+      "iconDesc": "CABQ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABR",
+      "iconName": { "key": "Medical, Nurse Station", "label": "" },
+      "iconDesc": "CABR",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABS",
+      "iconName": { "key": "Medical", "label": "" },
+      "iconDesc": "CABS",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABT",
+      "iconName": { "key": "Most Important 1", "label": "" },
+      "iconDesc": "CABT",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABU",
+      "iconName": { "key": "Most Important 2", "label": "" },
+      "iconDesc": "CABU",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABV",
+      "iconName": { "key": "Most Important 3", "label": "" },
+      "iconDesc": "CABV",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABW",
+      "iconName": { "key": "Most Important Feature", "label": "" },
+      "iconDesc": "CABW",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABX",
+      "iconName": { "key": "People, Contact Information", "label": "" },
+      "iconDesc": "CABX",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABY",
+      "iconName": { "key": "People, Handicapped", "label": "" },
+      "iconDesc": "CABY",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CABZ",
+      "iconName": { "key": "People, Occupant", "label": "" },
+      "iconDesc": "CABZ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACA",
+      "iconName": { "key": "Restrooms, Men", "label": "" },
+      "iconDesc": "CACA",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACB",
+      "iconName": { "key": "Restrooms, Women", "label": "" },
+      "iconDesc": "CACB",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACC",
+      "iconName": { "key": "Room, Boiler Room", "label": "" },
+      "iconDesc": "CACC",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACD",
+      "iconName": { "key": "Room, Catwalk", "label": "" },
+      "iconDesc": "CACD",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACE",
+      "iconName": { "key": "Room, Classroom", "label": "" },
+      "iconDesc": "CACE",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACF",
+      "iconName": { "key": "Room, Elevator Room", "label": "" },
+      "iconDesc": "CACF",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACG",
+      "iconName": { "key": "Room, Guard Shack", "label": "" },
+      "iconDesc": "CACG",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACH",
+      "iconName": { "key": "Room, Kitchen", "label": "" },
+      "iconDesc": "CACH",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACI",
+      "iconName": { "key": "Room, Laundry Room", "label": "" },
+      "iconDesc": "CACI",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACJ",
+      "iconName": { "key": "Room, Library", "label": "" },
+      "iconDesc": "CACJ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACK",
+      "iconName": { "key": "Room, Main Entry", "label": "" },
+      "iconDesc": "CACK",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACL",
+      "iconName": { "key": "Room, Office", "label": "" },
+      "iconDesc": "CACL",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACM",
+      "iconName": { "key": "Room, Storage", "label": "" },
+      "iconDesc": "CACM",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACN",
+      "iconName": { "key": "Room, Telephone Equipment Room", "label": "" },
+      "iconDesc": "CACN",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACO",
+      "iconName": { "key": "Room, Telephone Equipment", "label": "" },
+      "iconDesc": "CACO",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACP",
+      "iconName": { "key": "Room, Utility Room", "label": "" },
+      "iconDesc": "CACP",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACQ",
+      "iconName": { "key": "Safety, Decontamination Shower", "label": "" },
+      "iconDesc": "CACQ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACR",
+      "iconName": { "key": "Safety, Eyewash", "label": "" },
+      "iconDesc": "CACR",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACS",
+      "iconName": { "key": "Safety, Handwash", "label": "" },
+      "iconDesc": "CACS",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACT",
+      "iconName": { "key": "Safety Location, Fire Extinguisher", "label": "" },
+      "iconDesc": "CACT",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACU",
+      "iconName": { "key": "Safety Location, HVAC", "label": "" },
+      "iconDesc": "CACU",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACV",
+      "iconName": { "key": "Security, Area of Refuge 2", "label": "" },
+      "iconDesc": "CACV",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACW",
+      "iconName": { "key": "Security, Area of Refuge", "label": "" },
+      "iconDesc": "CACW",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACX",
+      "iconName": { "key": "Security, Bomb Shelter", "label": "" },
+      "iconDesc": "CACX",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACY",
+      "iconName": { "key": "Security, Evacuation Shelter", "label": "" },
+      "iconDesc": "CACY",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CACZ",
+      "iconName": { "key": "Security, Guard", "label": "" },
+      "iconDesc": "CACZ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADA",
+      "iconName": { "key": "Security, Safe Room", "label": "" },
+      "iconDesc": "CADA",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADB",
+      "iconName": { "key": "Security, Safe Zone", "label": "" },
+      "iconDesc": "CADB",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADC",
+      "iconName": { "key": "Security, Safe", "label": "" },
+      "iconDesc": "CADC",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADD",
+      "iconName": { "key": "Security, Storm Shelter", "label": "" },
+      "iconDesc": "CADD",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADE",
+      "iconName": { "key": "Restrooms", "label": "" },
+      "iconDesc": "CADE",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADF",
+      "iconName": { "key": "Blank", "label": "" },
+      "iconDesc": "CADF",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADG",
+      "iconName": { "key": "Electrical Generator", "label": "" },
+      "iconDesc": "CADG",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADH",
+      "iconName": { "key": "Emergency Control Station", "label": "" },
+      "iconDesc": "CADH",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADI",
+      "iconName": { "key": "Fire Pump", "label": "" },
+      "iconDesc": "CADI",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADJ",
+      "iconName": { "key": "Garbage", "label": "" },
+      "iconDesc": "CADJ",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADK",
+      "iconName": { "key": "Manual", "label": "" },
+      "iconDesc": "CADK",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADL",
+      "iconName": { "key": "Room, Catwalk", "label": "" },
+      "iconDesc": "CADL",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADM",
+      "iconName": { "key": "Room, Kitchen", "label": "" },
+      "iconDesc": "CADM",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADN",
+      "iconName": { "key": "Room, Laundry Room", "label": "" },
+      "iconDesc": "CADN",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    },
+    {
+      "iconId": "CADO",
+      "iconName": { "key": "Room, Main Entry", "label": "" },
+      "iconDesc": "CADO",
+      "category": { "key": "PreplanFeatures", "label": "ویژگی‌های پیش‌طرح" }
+    }
+  ]
+}

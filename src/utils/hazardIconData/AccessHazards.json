@@ -1,0 +1,301 @@
+{
+  "AccessHazards": [
+    {
+      "iconId": "BAAA",
+      "iconName": { "key": "Hazard Access Apparatus Ambulance", "label": "" },
+      "iconDesc": "BAAA",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAB",
+      "iconName": { "key": "Hazard Access Apparatus Fire Engine", "label": "" },
+      "iconDesc": "BAAB",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAC",
+      "iconName": { "key": "Hazard Access Apparatus No Fire Engine", "label": "" },
+      "iconDesc": "BAAC",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAD",
+      "iconName": { "key": "Hazard Access Blocked No Access", "label": "" },
+      "iconDesc": "BAAD",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAE",
+      "iconName": { "key": "Hazard Access Blocked Road", "label": "" },
+      "iconDesc": "BAAE",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAF",
+      "iconName": { "key": "Hazard Access Bridge Do Not Cross", "label": "" },
+      "iconDesc": "BAAF",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAG",
+      "iconName": {
+        "key": "Hazard Access Clearance Low Height No Access Fire Engine",
+        "label": ""
+      },
+      "iconDesc": "BAAG",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAH",
+      "iconName": { "key": "Hazard Access Clearance Low Height No Access", "label": "" },
+      "iconDesc": "BAAH",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAI",
+      "iconName": { "key": "Hazard Access Clearance Low Height", "label": "" },
+      "iconDesc": "BAAI",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAJ",
+      "iconName": { "key": "Hazard Access Clearance Narrow No Access Fire Engine", "label": "" },
+      "iconDesc": "BAAJ",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAK",
+      "iconName": { "key": "Hazard Access Clearance Narrow No Access", "label": "" },
+      "iconDesc": "BAAK",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAL",
+      "iconName": { "key": "Hazard Access Clearance Narrow", "label": "" },
+      "iconDesc": "BAAL",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAM",
+      "iconName": { "key": "Hazard Access No Ladder Truck or Semi Truck Access", "label": "" },
+      "iconDesc": "BAAM",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAN",
+      "iconName": { "key": "Hazard Access No Turnaround Ambulance", "label": "" },
+      "iconDesc": "BAAN",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAO",
+      "iconName": { "key": "Hazard Access No Turnaround Fire Engine", "label": "" },
+      "iconDesc": "BAAO",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAP",
+      "iconName": { "key": "Hazard Access No Turnaround Ladder Truck or Semi Truck", "label": "" },
+      "iconDesc": "BAAP",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAQ",
+      "iconName": { "key": "Hazard Access No Turnaround Vehicle General", "label": "" },
+      "iconDesc": "BAAQ",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAR",
+      "iconName": { "key": "Hazard Access No Turnaround", "label": "" },
+      "iconDesc": "BAAR",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAS",
+      "iconName": { "key": "Hazard Access No Vehicle Access", "label": "" },
+      "iconDesc": "BAAS",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAT",
+      "iconName": { "key": "Hazard Access No Vertical Ladder Access", "label": "" },
+      "iconDesc": "BAAT",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAU",
+      "iconName": { "key": "Hazard Access Poor Access Vehicle General", "label": "" },
+      "iconDesc": "BAAU",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAV",
+      "iconName": { "key": "Hazard Access Restricted Weight", "label": "" },
+      "iconDesc": "BAAV",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAW",
+      "iconName": { "key": "Hazard Access Road Access Vehicle General", "label": "" },
+      "iconDesc": "BAAW",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAX",
+      "iconName": { "key": "Hazard Access Steep Access Difficult", "label": "" },
+      "iconDesc": "BAAX",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAY",
+      "iconName": { "key": "Hazard Access Steep Access Easy", "label": "" },
+      "iconDesc": "BAAY",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BAAZ",
+      "iconName": { "key": "Hazard Access Steep Access Extreme", "label": "" },
+      "iconDesc": "BAAZ",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABA",
+      "iconName": { "key": "Hazard Access Steep Access General", "label": "" },
+      "iconDesc": "BABA",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABB",
+      "iconName": { "key": "Hazard Access Freeway Turnaround", "label": "" },
+      "iconDesc": "BABB",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABC",
+      "iconName": { "key": "Hazard Access Road Turnaround", "label": "" },
+      "iconDesc": "BABC",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABD",
+      "iconName": { "key": "Tournaround", "label": "" },
+      "iconDesc": "BABD",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABE",
+      "iconName": { "key": "Hazard Steep Access Moderate", "label": "" },
+      "iconDesc": "BABE",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABF",
+      "iconName": { "key": "Hazard Steep Access Vehicle", "label": "" },
+      "iconDesc": "BABF",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABG",
+      "iconName": { "key": "Hazard Access Traffic Circle", "label": "" },
+      "iconDesc": "BABG",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABH",
+      "iconName": { "key": "Hazard Access Aerial", "label": "" },
+      "iconDesc": "BABH",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABI",
+      "iconName": { "key": "Hazard Traffic Calming", "label": "" },
+      "iconDesc": "BABI",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABJ",
+      "iconName": { "key": "Hazard No Aerial Access", "label": "" },
+      "iconDesc": "BABJ",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BABK",
+      "iconName": { "key": "Hazard No Aerial Access", "label": "" },
+      "iconDesc": "BABK",
+      "category": { "key": "Emergency Access Hazards", "label": "خطرات دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBA",
+      "iconName": { "key": "Ambulance Access", "label": "" },
+      "iconDesc": "BBA",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBB",
+      "iconName": { "key": "Ladder Truck Access", "label": "" },
+      "iconDesc": "BBB",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBC",
+      "iconName": { "key": "Pumper Access", "label": "" },
+      "iconDesc": "BBC",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBD",
+      "iconName": { "key": "Small Vehicle Access", "label": "" },
+      "iconDesc": "BBD",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBE",
+      "iconName": { "key": "Tram or Vertical Lift", "label": "" },
+      "iconDesc": "BBE",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBF",
+      "iconName": { "key": "Walking Access Only", "label": "" },
+      "iconDesc": "BBF",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBG",
+      "iconName": { "key": "Water Access", "label": "" },
+      "iconDesc": "BBG",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBH",
+      "iconName": { "key": "Fire Department Access", "label": "" },
+      "iconDesc": "BBH",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBI",
+      "iconName": { "key": "Police Department Access", "label": "" },
+      "iconDesc": "BBI",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBJ",
+      "iconName": { "key": "Public Works Access", "label": "" },
+      "iconDesc": "BBJ",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBK",
+      "iconName": { "key": "Trail Access", "label": "" },
+      "iconDesc": "BBK",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    },
+    {
+      "iconId": "BBL",
+      "iconName": { "key": "Vehicle Parking", "label": "" },
+      "iconDesc": "BBL",
+      "category": { "key": "Emergency Access Points", "label": "نقاط دسترسی اضطراری" }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "HumanCausedHazards": [
+    {
+      "iconId": "FAA",
+      "iconName": { "key": "Explosion Hazard", "label": "" },
+      "iconDesc": "FAA",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAB",
+      "iconName": { "key": "Fire Commercial Hazard", "label": "" },
+      "iconDesc": "FAB",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAC",
+      "iconName": { "key": "Fire Forest Hazard", "label": "" },
+      "iconDesc": "FAC",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAD",
+      "iconName": { "key": "Fire House Hazard", "label": "" },
+      "iconDesc": "FAD",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAE",
+      "iconName": { "key": "Fire Industrial Hazard", "label": "" },
+      "iconDesc": "FAE",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAF",
+      "iconName": { "key": "Fire Other Hazard", "label": "" },
+      "iconDesc": "FAF",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAG",
+      "iconName": { "key": "Fire School Hazard", "label": "" },
+      "iconDesc": "FAG",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAH",
+      "iconName": { "key": "HazMat Release Hazard", "label": "" },
+      "iconDesc": "FAH",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAI",
+      "iconName": { "key": "Other Hazard", "label": "" },
+      "iconDesc": "FAI",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAJ",
+      "iconName": { "key": "Plane Crash", "label": "" },
+      "iconDesc": "FAJ",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAK",
+      "iconName": { "key": "Radiological General Hazard", "label": "" },
+      "iconDesc": "FAK",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAL",
+      "iconName": { "key": "Radiological Nuclear Power Hazard", "label": "" },
+      "iconDesc": "FAL",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAM",
+      "iconName": { "key": "Structural Collapse Hazard", "label": "" },
+      "iconDesc": "FAM",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    },
+    {
+      "iconId": "FAN",
+      "iconName": { "key": "Train Derailment", "label": "" },
+      "iconDesc": "FAN",
+      "category": { "key": "HumanCausedHazards", "label": "خطرات ناشی از انسان" }
+    }
+  ]
+}

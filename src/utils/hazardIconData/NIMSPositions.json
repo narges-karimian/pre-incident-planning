@@ -1,0 +1,580 @@
+{
+  "NIMSPositions": [
+    {
+      "iconId": "EAAA",
+      "iconName": { "key": "Blank Frame", "label": "" },
+      "iconDesc": "EAAA",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAB",
+      "iconName": { "key": "Incident Commander (Simple)", "label": "" },
+      "iconDesc": "EAAB",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAC",
+      "iconName": { "key": "Incident Commander (with Graphic)", "label": "" },
+      "iconDesc": "EAAC",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAD",
+      "iconName": { "key": "Deputy Incident Commander", "label": "" },
+      "iconDesc": "EAAD",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAE",
+      "iconName": { "key": "Deputy Incident Commander (with Graphic)", "label": "" },
+      "iconDesc": "EAAE",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAF",
+      "iconName": { "key": "Staff PIO, Public Information Officer", "label": "" },
+      "iconDesc": "EAAF",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAG",
+      "iconName": { "key": "Section PIO, Public Information Officer (with Graphic)", "label": "" },
+      "iconDesc": "EAAG",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAH",
+      "iconName": { "key": "Staff LNO, Liaison Officer", "label": "" },
+      "iconDesc": "EAAH",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAI",
+      "iconName": { "key": "Staff LNO, Liaison Officer (with Graphic)", "label": "" },
+      "iconDesc": "EAAI",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAJ",
+      "iconName": { "key": "Staff SO, Safety Officer", "label": "" },
+      "iconDesc": "EAAJ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAK",
+      "iconName": { "key": "Staff SO, Safety Officer", "label": "" },
+      "iconDesc": "EAAK",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAL",
+      "iconName": { "key": "Section, Logistics", "label": "" },
+      "iconDesc": "EAAL",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAM",
+      "iconName": { "key": "Section, Finance", "label": "" },
+      "iconDesc": "EAAM",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAN",
+      "iconName": { "key": "Section, Operations", "label": "" },
+      "iconDesc": "EAAN",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAO",
+      "iconName": { "key": "Section, Planning", "label": "" },
+      "iconDesc": "EAAO",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAP",
+      "iconName": { "key": "BRANCH, Air", "label": "" },
+      "iconDesc": "EAAP",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAQ",
+      "iconName": { "key": "BRANCH, Air", "label": "" },
+      "iconDesc": "EAAQ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAR",
+      "iconName": { "key": "BRANCH, EMS", "label": "" },
+      "iconDesc": "EAAR",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAS",
+      "iconName": { "key": "BRANCH, EMS", "label": "" },
+      "iconDesc": "EAAS",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAT",
+      "iconName": { "key": "BRANCH, FIRE", "label": "" },
+      "iconDesc": "EAAT",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAU",
+      "iconName": { "key": "BRANCH, FIRE", "label": "" },
+      "iconDesc": "EAAU",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAV",
+      "iconName": { "key": "BRANCH, HazMat", "label": "" },
+      "iconDesc": "EAAV",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAW",
+      "iconName": { "key": "BRANCH, HazMat", "label": "" },
+      "iconDesc": "EAAW",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAX",
+      "iconName": { "key": "BRANCH, LAW", "label": "" },
+      "iconDesc": "EAAX",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAY",
+      "iconName": { "key": "BRANCH, LAW", "label": "" },
+      "iconDesc": "EAAY",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EAAZ",
+      "iconName": { "key": "BRANCH, Public Works", "label": "" },
+      "iconDesc": "EAAZ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABA",
+      "iconName": { "key": "BRANCH, Public Works", "label": "" },
+      "iconDesc": "EABA",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABB",
+      "iconName": { "key": "BRANCH, SAR", "label": "" },
+      "iconDesc": "EABB",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABC",
+      "iconName": { "key": "BRANCH, SAR", "label": "" },
+      "iconDesc": "EABC",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABD",
+      "iconName": { "key": "BRANCH I", "label": "" },
+      "iconDesc": "EABD",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABE",
+      "iconName": { "key": "BRANCH I", "label": "" },
+      "iconDesc": "EABE",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABF",
+      "iconName": { "key": "BRANCH II", "label": "" },
+      "iconDesc": "EABF",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABG",
+      "iconName": { "key": "BRANCH II", "label": "" },
+      "iconDesc": "EABG",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABH",
+      "iconName": { "key": "BRANCH III", "label": "" },
+      "iconDesc": "EABH",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABI",
+      "iconName": { "key": "BRANCH III", "label": "" },
+      "iconDesc": "EABI",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABJ",
+      "iconName": { "key": "BRANCH IV", "label": "" },
+      "iconDesc": "EABJ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABK",
+      "iconName": { "key": "BRANCH IV", "label": "" },
+      "iconDesc": "EABK",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABL",
+      "iconName": { "key": "BRANCH V", "label": "" },
+      "iconDesc": "EABL",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABM",
+      "iconName": { "key": "BRANCH V", "label": "" },
+      "iconDesc": "EABM",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABN",
+      "iconName": { "key": "BRANCH VI", "label": "" },
+      "iconDesc": "EABN",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABO",
+      "iconName": { "key": "BRANCH VI", "label": "" },
+      "iconDesc": "EABO",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABP",
+      "iconName": { "key": "BRANCH VII", "label": "" },
+      "iconDesc": "EABP",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABQ",
+      "iconName": { "key": "BRANCH VII", "label": "" },
+      "iconDesc": "EABQ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABR",
+      "iconName": { "key": "BRANCH IIX", "label": "" },
+      "iconDesc": "EABR",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABS",
+      "iconName": { "key": "BRANCH IIX", "label": "" },
+      "iconDesc": "EABS",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABT",
+      "iconName": { "key": "BRANCH IX", "label": "" },
+      "iconDesc": "EABT",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABU",
+      "iconName": { "key": "BRANCH IX", "label": "" },
+      "iconDesc": "EABU",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABV",
+      "iconName": { "key": "BRANCH X", "label": "" },
+      "iconDesc": "EABV",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABW",
+      "iconName": { "key": "BRANCH X", "label": "" },
+      "iconDesc": "EABW",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABX",
+      "iconName": { "key": "DIVISION 1", "label": "" },
+      "iconDesc": "EABX",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABY",
+      "iconName": { "key": "DIVISION 1", "label": "" },
+      "iconDesc": "EABY",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EABZ",
+      "iconName": { "key": "DIVISION 2", "label": "" },
+      "iconDesc": "EABZ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACA",
+      "iconName": { "key": "DIVISION 2", "label": "" },
+      "iconDesc": "EACA",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACB",
+      "iconName": { "key": "DIVISION 3", "label": "" },
+      "iconDesc": "EACB",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACC",
+      "iconName": { "key": "DIVISION 3", "label": "" },
+      "iconDesc": "EACC",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACD",
+      "iconName": { "key": "DIVISION 4", "label": "" },
+      "iconDesc": "EACD",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACE",
+      "iconName": { "key": "DIVISION 4", "label": "" },
+      "iconDesc": "EACE",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACF",
+      "iconName": { "key": "DIVISION 5", "label": "" },
+      "iconDesc": "EACF",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACG",
+      "iconName": { "key": "DIVISION 5", "label": "" },
+      "iconDesc": "EACG",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACH",
+      "iconName": { "key": "DIVISION 6", "label": "" },
+      "iconDesc": "EACH",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACI",
+      "iconName": { "key": "DIVISION 6", "label": "" },
+      "iconDesc": "EACI",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACJ",
+      "iconName": { "key": "DIVISION 7", "label": "" },
+      "iconDesc": "EACJ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACK",
+      "iconName": { "key": "DIVISION 7", "label": "" },
+      "iconDesc": "EACK",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACL",
+      "iconName": { "key": "DIVISION 8", "label": "" },
+      "iconDesc": "EACL",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACM",
+      "iconName": { "key": "DIVISION 8", "label": "" },
+      "iconDesc": "EACM",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACN",
+      "iconName": { "key": "DIVISION 9", "label": "" },
+      "iconDesc": "EACN",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACO",
+      "iconName": { "key": "DIVISION 9", "label": "" },
+      "iconDesc": "EACO",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACP",
+      "iconName": { "key": "DIVISION 10", "label": "" },
+      "iconDesc": "EACP",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACQ",
+      "iconName": { "key": "DIVISION 10", "label": "" },
+      "iconDesc": "EACQ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACR",
+      "iconName": { "key": "DIVISION A", "label": "" },
+      "iconDesc": "EACR",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACS",
+      "iconName": { "key": "DIVISION A", "label": "" },
+      "iconDesc": "EACS",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACT",
+      "iconName": { "key": "DIVISION B", "label": "" },
+      "iconDesc": "EACT",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACU",
+      "iconName": { "key": "DIVISION B", "label": "" },
+      "iconDesc": "EACU",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACV",
+      "iconName": { "key": "DIVISION C", "label": "" },
+      "iconDesc": "EACV",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACW",
+      "iconName": { "key": "DIVISION C", "label": "" },
+      "iconDesc": "EACW",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACX",
+      "iconName": { "key": "DIVISION D", "label": "" },
+      "iconDesc": "EACX",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACY",
+      "iconName": { "key": "DIVISION D", "label": "" },
+      "iconDesc": "EACY",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EACZ",
+      "iconName": { "key": "DIVISION E", "label": "" },
+      "iconDesc": "EACZ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADA",
+      "iconName": { "key": "DIVISION E", "label": "" },
+      "iconDesc": "EADA",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADB",
+      "iconName": { "key": "DIVISION F", "label": "" },
+      "iconDesc": "EADB",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADC",
+      "iconName": { "key": "DIVISION F", "label": "" },
+      "iconDesc": "EADC",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADD",
+      "iconName": { "key": "DIVISION G", "label": "" },
+      "iconDesc": "EADD",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADE",
+      "iconName": { "key": "DIVISION G", "label": "" },
+      "iconDesc": "EADE",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADF",
+      "iconName": { "key": "GROUP, EMS", "label": "" },
+      "iconDesc": "EADF",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADG",
+      "iconName": { "key": "GROUP, EMS", "label": "" },
+      "iconDesc": "EADG",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADH",
+      "iconName": { "key": "GROUP, SAR", "label": "" },
+      "iconDesc": "EADH",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADI",
+      "iconName": { "key": "GROUP, Medical", "label": "" },
+      "iconDesc": "EADI",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADJ",
+      "iconName": { "key": "GROUP, Medical", "label": "" },
+      "iconDesc": "EADJ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADK",
+      "iconName": { "key": "GROUP, Rescue", "label": "" },
+      "iconDesc": "EADK",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADL",
+      "iconName": { "key": "GROUP, Rescue", "label": "" },
+      "iconDesc": "EADL",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADM",
+      "iconName": { "key": "GROUP, Rapid Intervention", "label": "" },
+      "iconDesc": "EADM",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADN",
+      "iconName": { "key": "GROUP, Rapid Intervention", "label": "" },
+      "iconDesc": "EADN",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADO",
+      "iconName": { "key": "GROUP, SEARCH", "label": "" },
+      "iconDesc": "EADO",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADP",
+      "iconName": { "key": "GROUP, SEARCH", "label": "" },
+      "iconDesc": "EADP",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADQ",
+      "iconName": { "key": "GROUP, VENT", "label": "" },
+      "iconDesc": "EADQ",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    },
+    {
+      "iconId": "EADR",
+      "iconName": { "key": "GROUP, VENT", "label": "" },
+      "iconDesc": "EADR",
+      "category": { "key": "NIMSOrganizationPositions", "label": "موقعیت‌های سازمانی NIMS" }
+    }
+  ]
+}

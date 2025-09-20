@@ -1,0 +1,298 @@
+{
+  "PublicAlert": [
+    {
+      "iconId": "GAAA",
+      "iconName": { "key": "911 Telephone Outage Emergency", "label": "" },
+      "iconDesc": "GAAA",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAB",
+      "iconName": { "key": "Avalanche Warning", "label": "" },
+      "iconDesc": "GAAB",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAC",
+      "iconName": { "key": "Avalanche Watch", "label": "" },
+      "iconDesc": "GAAC",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAD",
+      "iconName": { "key": "Blizzard Warning", "label": "" },
+      "iconDesc": "GAAD",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAE",
+      "iconName": { "key": "Blue Alert", "label": "" },
+      "iconDesc": "GAAE",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAF",
+      "iconName": { "key": "Child Abduction Emergency", "label": "" },
+      "iconDesc": "GAAF",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAG",
+      "iconName": { "key": "Civil Danger Warning", "label": "" },
+      "iconDesc": "GAAG",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAH",
+      "iconName": { "key": "Civil Emergency Message", "label": "" },
+      "iconDesc": "GAAH",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAI",
+      "iconName": { "key": "Coastal Flood Warning", "label": "" },
+      "iconDesc": "GAAI",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAJ",
+      "iconName": { "key": "Coastal Flood Watch", "label": "" },
+      "iconDesc": "GAAJ",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAK",
+      "iconName": { "key": "Dust Storm Warning", "label": "" },
+      "iconDesc": "GAAK",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAL",
+      "iconName": { "key": "Earthquake Warning", "label": "" },
+      "iconDesc": "GAAL",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAM",
+      "iconName": { "key": "Emergency Action Notification National", "label": "" },
+      "iconDesc": "GAAM",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAN",
+      "iconName": { "key": "Evacuation Immediate", "label": "" },
+      "iconDesc": "GAAN",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAO",
+      "iconName": { "key": "Extreme Wind Warning", "label": "" },
+      "iconDesc": "GAAO",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAP",
+      "iconName": { "key": "Fire Warning", "label": "" },
+      "iconDesc": "GAAP",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAQ",
+      "iconName": { "key": "Flash Flood Statement", "label": "" },
+      "iconDesc": "GAAQ",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAR",
+      "iconName": { "key": "Flash Flood Warning", "label": "" },
+      "iconDesc": "GAAR",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAS",
+      "iconName": { "key": "Flash Flood Watch", "label": "" },
+      "iconDesc": "GAAS",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAT",
+      "iconName": { "key": "Flood Statement", "label": "" },
+      "iconDesc": "GAAT",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAU",
+      "iconName": { "key": "Flood Warning", "label": "" },
+      "iconDesc": "GAAU",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAV",
+      "iconName": { "key": "Flood Watch", "label": "" },
+      "iconDesc": "GAAV",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAW",
+      "iconName": { "key": "Hazardous Materials Warning", "label": "" },
+      "iconDesc": "GAAW",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAX",
+      "iconName": { "key": "High Wind Warning", "label": "" },
+      "iconDesc": "GAAX",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAY",
+      "iconName": { "key": "High Wind Watch", "label": "" },
+      "iconDesc": "GAAY",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GAAZ",
+      "iconName": { "key": "Hurricane Statement", "label": "" },
+      "iconDesc": "GAAZ",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABA",
+      "iconName": { "key": "Hurricane Warning", "label": "" },
+      "iconDesc": "GABA",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABB",
+      "iconName": { "key": "Hurricane Watch", "label": "" },
+      "iconDesc": "GABB",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABC",
+      "iconName": { "key": "Law Enforcement Warning", "label": "" },
+      "iconDesc": "GABC",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABD",
+      "iconName": { "key": "Local Area Emergency", "label": "" },
+      "iconDesc": "GABD",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABE",
+      "iconName": { "key": "Nuclear Power Plant Warning", "label": "" },
+      "iconDesc": "GABE",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABF",
+      "iconName": { "key": "Radiological Hazard Warning", "label": "" },
+      "iconDesc": "GABF",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABG",
+      "iconName": { "key": "Severe Thunderstorm Warning", "label": "" },
+      "iconDesc": "GABG",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABH",
+      "iconName": { "key": "Severe Thunderstorm Watch", "label": "" },
+      "iconDesc": "GABH",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABI",
+      "iconName": { "key": "Severe Weather Statement", "label": "" },
+      "iconDesc": "GABI",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABJ",
+      "iconName": { "key": "Special Weather Statement", "label": "" },
+      "iconDesc": "GABJ",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABK",
+      "iconName": { "key": "Shelter In Place", "label": "" },
+      "iconDesc": "GABK",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABL",
+      "iconName": { "key": "Special Marine Warning", "label": "" },
+      "iconDesc": "GABL",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABM",
+      "iconName": { "key": "Storm Surge Warning", "label": "" },
+      "iconDesc": "GABM",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABN",
+      "iconName": { "key": "Storm Surge Watch", "label": "" },
+      "iconDesc": "GABN",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABO",
+      "iconName": { "key": "Tornado Warning", "label": "" },
+      "iconDesc": "GABO",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABP",
+      "iconName": { "key": "Tornado Watch", "label": "" },
+      "iconDesc": "GABP",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABQ",
+      "iconName": { "key": "Tropical Storm Warning", "label": "" },
+      "iconDesc": "GABQ",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABR",
+      "iconName": { "key": "Tropical Storm Watch", "label": "" },
+      "iconDesc": "GABR",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABS",
+      "iconName": { "key": "Tsunami Warning", "label": "" },
+      "iconDesc": "GABS",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABT",
+      "iconName": { "key": "Tsunami Watch", "label": "" },
+      "iconDesc": "GABT",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABU",
+      "iconName": { "key": "Volcano Warning", "label": "" },
+      "iconDesc": "GABU",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABV",
+      "iconName": { "key": "Winter Storm Warning", "label": "" },
+      "iconDesc": "GABV",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    },
+    {
+      "iconId": "GABW",
+      "iconName": { "key": "Winter Storm Watch", "label": "" },
+      "iconDesc": "GABW",
+      "category": { "key": "PublicAlertWarnings", "label": "هشدارها و اخطارهای عمومی" }
+    }
+  ]
+}

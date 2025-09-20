@@ -1,0 +1,424 @@
+{
+  "Lifelines": [
+    {
+      "iconId": "KAA",
+      "iconName": { "key": "Communications", "label": "" },
+      "iconDesc": "KAA",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAB",
+      "iconName": { "key": "Communications", "label": "" },
+      "iconDesc": "KAB",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAC",
+      "iconName": { "key": "Communications: 911 and Dispatch", "label": "" },
+      "iconDesc": "KAC",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAD",
+      "iconName": { "key": "Communications: 911 and Dispatch", "label": "" },
+      "iconDesc": "KAD",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAE",
+      "iconName": { "key": "Communications: Alerts, Warnings, and Messages", "label": "" },
+      "iconDesc": "KAE",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAF",
+      "iconName": { "key": "Communications: Alerts, Warnings, and Messages", "label": "" },
+      "iconDesc": "KAF",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAG",
+      "iconName": { "key": "Communications: Financial Services", "label": "" },
+      "iconDesc": "KAG",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAH",
+      "iconName": { "key": "Communications: Financial Services", "label": "" },
+      "iconDesc": "KAH",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAI",
+      "iconName": { "key": "Communications: Infrastructure", "label": "" },
+      "iconDesc": "KAI",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAJ",
+      "iconName": { "key": "Communications: Infrastructure", "label": "" },
+      "iconDesc": "KAJ",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAK",
+      "iconName": { "key": "Communications: Responder Communications", "label": "" },
+      "iconDesc": "KAK",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KAL",
+      "iconName": { "key": "Communications: Responder Communications", "label": "" },
+      "iconDesc": "KAL",
+      "category": { "key": "CommunicationsLifeline", "label": "خط حیات ارتباطات" }
+    },
+    {
+      "iconId": "KBA",
+      "iconName": { "key": "Energy", "label": "" },
+      "iconDesc": "KBA",
+      "category": { "key": "EnergyLifeline", "label": "خط حیات انرژی" }
+    },
+    {
+      "iconId": "KBB",
+      "iconName": { "key": "Energy", "label": "" },
+      "iconDesc": "KBB",
+      "category": { "key": "EnergyLifeline", "label": "خط حیات انرژی" }
+    },
+    {
+      "iconId": "KBC",
+      "iconName": { "key": "Energy: Fuel", "label": "" },
+      "iconDesc": "KBC",
+      "category": { "key": "EnergyLifeline", "label": "خط حیات انرژی" }
+    },
+    {
+      "iconId": "KBD",
+      "iconName": { "key": "Energy: Fuel", "label": "" },
+      "iconDesc": "KBD",
+      "category": { "key": "EnergyLifeline", "label": "خط حیات انرژی" }
+    },
+    {
+      "iconId": "KBE",
+      "iconName": { "key": "Energy: Power", "label": "" },
+      "iconDesc": "KBE",
+      "category": { "key": "EnergyLifeline", "label": "خط حیات انرژی" }
+    },
+    {
+      "iconId": "KBF",
+      "iconName": { "key": "Energy: Power", "label": "" },
+      "iconDesc": "KBF",
+      "category": { "key": "EnergyLifeline", "label": "خط حیات انرژی" }
+    },
+    {
+      "iconId": "KCA",
+      "iconName": { "key": "Food, Water, Shelter", "label": "" },
+      "iconDesc": "KCA",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCB",
+      "iconName": { "key": "Food, Water, Shelter", "label": "" },
+      "iconDesc": "KCB",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCC",
+      "iconName": { "key": "Food, Water, Shelter: Agriculture", "label": "" },
+      "iconDesc": "KCC",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCD",
+      "iconName": { "key": "Food, Water, Shelter: Agriculture", "label": "" },
+      "iconDesc": "KCD",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCE",
+      "iconName": { "key": "Food, Water, Shelter: Food", "label": "" },
+      "iconDesc": "KCE",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCF",
+      "iconName": { "key": "Food, Water, Shelter: Food", "label": "" },
+      "iconDesc": "KCF",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCG",
+      "iconName": { "key": "Food, Water, Shelter: Shelter", "label": "" },
+      "iconDesc": "KCG",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCH",
+      "iconName": { "key": "Food, Water, Shelter: Shelter", "label": "" },
+      "iconDesc": "KCH",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCI",
+      "iconName": { "key": "Food, Water, Shelter: Water", "label": "" },
+      "iconDesc": "KCI",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KCJ",
+      "iconName": { "key": "Food, Water, Shelter: Water", "label": "" },
+      "iconDesc": "KCJ",
+      "category": { "key": "FoodWaterShelterLifeline", "label": "خط حیات غذا، آب، سرپناه" }
+    },
+    {
+      "iconId": "KDA",
+      "iconName": { "key": "Hazardous Material", "label": "" },
+      "iconDesc": "KDA",
+      "category": { "key": "HazardousMaterialLifeline", "label": "خط حیات مواد خطرناک" }
+    },
+    {
+      "iconId": "KDB",
+      "iconName": { "key": "Hazardous Material", "label": "" },
+      "iconDesc": "KDB",
+      "category": { "key": "HazardousMaterialLifeline", "label": "خط حیات مواد خطرناک" }
+    },
+    {
+      "iconId": "KDC",
+      "iconName": { "key": "Hazardous Material: Facilities", "label": "" },
+      "iconDesc": "KDC",
+      "category": { "key": "HazardousMaterialLifeline", "label": "خط حیات مواد خطرناک" }
+    },
+    {
+      "iconId": "KDD",
+      "iconName": { "key": "Hazardous Material: Facilities", "label": "" },
+      "iconDesc": "KDD",
+      "category": { "key": "HazardousMaterialLifeline", "label": "خط حیات مواد خطرناک" }
+    },
+    {
+      "iconId": "KDE",
+      "iconName": { "key": "Hazardous Material: HazMat, Pollutants, Contaminants", "label": "" },
+      "iconDesc": "KDE",
+      "category": { "key": "HazardousMaterialLifeline", "label": "خط حیات مواد خطرناک" }
+    },
+    {
+      "iconId": "KDF",
+      "iconName": { "key": "Hazardous Material: HazMat, Pollutants, Contaminants", "label": "" },
+      "iconDesc": "KDF",
+      "category": { "key": "HazardousMaterialLifeline", "label": "خط حیات مواد خطرناک" }
+    },
+    {
+      "iconId": "KEA",
+      "iconName": { "key": "Health and Medical", "label": "" },
+      "iconDesc": "KEA",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEB",
+      "iconName": { "key": "Health and Medical", "label": "" },
+      "iconDesc": "KEB",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEC",
+      "iconName": { "key": "Health and Medical: Fatality Management", "label": "" },
+      "iconDesc": "KEC",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KED",
+      "iconName": { "key": "Health and Medical: Fatality Management", "label": "" },
+      "iconDesc": "KED",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEE",
+      "iconName": { "key": "Health and Medical: Medical Care", "label": "" },
+      "iconDesc": "KEE",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEF",
+      "iconName": { "key": "Health and Medical: Medical Care", "label": "" },
+      "iconDesc": "KEF",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEG",
+      "iconName": { "key": "Health and Medical: Medical Supply Chain", "label": "" },
+      "iconDesc": "KEG",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEH",
+      "iconName": { "key": "Health and Medical: Medical Supply Chain", "label": "" },
+      "iconDesc": "KEH",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEI",
+      "iconName": { "key": "Health and Medical: Patient Movement", "label": "" },
+      "iconDesc": "KEI",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEJ",
+      "iconName": { "key": "Health and Medical: Patient Movement", "label": "" },
+      "iconDesc": "KEJ",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEK",
+      "iconName": { "key": "Health and Medical: Public Health", "label": "" },
+      "iconDesc": "KEK",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KEL",
+      "iconName": { "key": "Health and Medical: Public Health", "label": "" },
+      "iconDesc": "KEL",
+      "category": { "key": "HealthMedicalLifeline", "label": "خط حیات سلامت و پزشکی" }
+    },
+    {
+      "iconId": "KFA",
+      "iconName": { "key": "Safety and Security", "label": "" },
+      "iconDesc": "KFA",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFB",
+      "iconName": { "key": "Safety and Security", "label": "" },
+      "iconDesc": "KFB",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFC",
+      "iconName": { "key": "Safety and Security: Community Safety", "label": "" },
+      "iconDesc": "KFC",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFD",
+      "iconName": { "key": "Safety and Security: Community Safety", "label": "" },
+      "iconDesc": "KFD",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFE",
+      "iconName": { "key": "Safety and Security: Fire Services", "label": "" },
+      "iconDesc": "KFE",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFF",
+      "iconName": { "key": "Safety and Security: Fire Services", "label": "" },
+      "iconDesc": "KFF",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFG",
+      "iconName": { "key": "Safety and Security: Government Services", "label": "" },
+      "iconDesc": "KFG",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFH",
+      "iconName": { "key": "Safety and Security: Government Services", "label": "" },
+      "iconDesc": "KFH",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFI",
+      "iconName": { "key": "Safety and Security: Law Enforcement / Security", "label": "" },
+      "iconDesc": "KFI",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFJ",
+      "iconName": { "key": "Safety and Security: Law Enforcement / Security", "label": "" },
+      "iconDesc": "KFJ",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFK",
+      "iconName": { "key": "Safety and Security: Search and Rescue", "label": "" },
+      "iconDesc": "KFK",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KFL",
+      "iconName": { "key": "Safety and Security: Search and Rescue", "label": "" },
+      "iconDesc": "KFL",
+      "category": { "key": "SafetySecurityLifeline", "label": "خط حیات ایمنی و امنیت" }
+    },
+    {
+      "iconId": "KGA",
+      "iconName": { "key": "Transportation", "label": "" },
+      "iconDesc": "KGA",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGB",
+      "iconName": { "key": "Transportation", "label": "" },
+      "iconDesc": "KGB",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGC",
+      "iconName": { "key": "Transportation: Aviation", "label": "" },
+      "iconDesc": "KGC",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGD",
+      "iconName": { "key": "Transportation: Aviation", "label": "" },
+      "iconDesc": "KGD",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGE",
+      "iconName": { "key": "Transportation: Highway / Roadway", "label": "" },
+      "iconDesc": "KGE",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGF",
+      "iconName": { "key": "Transportation: Highway / Roadway", "label": "" },
+      "iconDesc": "KGF",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGG",
+      "iconName": { "key": "Transportation: Maritime", "label": "" },
+      "iconDesc": "KGG",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGH",
+      "iconName": { "key": "Transportation: Maritime", "label": "" },
+      "iconDesc": "KGH",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGI",
+      "iconName": { "key": "Transportation: Mass Transit", "label": "" },
+      "iconDesc": "KGI",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGJ",
+      "iconName": { "key": "Transportation: Mass Transit", "label": "" },
+      "iconDesc": "KGJ",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGK",
+      "iconName": { "key": "Transportation: Railway", "label": "" },
+      "iconDesc": "KGK",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    },
+    {
+      "iconId": "KGL",
+      "iconName": { "key": "Transportation: Railway", "label": "" },
+      "iconDesc": "KGL",
+      "category": { "key": "TransportationLifeline", "label": "خط حیات حمل و نقل" }
+    }
+  ]
+}

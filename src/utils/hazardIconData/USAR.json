@@ -1,0 +1,154 @@
+{
+  "USAR": [
+    {
+      "iconId": "AAA",
+      "iconName": { "key": "Structure, No Damage", "label": "" },
+      "iconDesc": "AAA",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAB",
+      "iconName": { "key": "Structure, Damaged", "label": "" },
+      "iconDesc": "AAB",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAC",
+      "iconName": { "key": "Structure, Failed", "label": "" },
+      "iconDesc": "AAC",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAD",
+      "iconName": { "key": "Structure, Destroyed", "label": "" },
+      "iconDesc": "AAD",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAE",
+      "iconName": { "key": "Victim, Detected", "label": "" },
+      "iconDesc": "AAE",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAF",
+      "iconName": { "key": "Victim, Confirmed", "label": "" },
+      "iconDesc": "AAF",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAG",
+      "iconName": { "key": "Shelter in Place", "label": "" },
+      "iconDesc": "AAG",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAH",
+      "iconName": { "key": "Occupant Assisted", "label": "" },
+      "iconDesc": "AAH",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAI",
+      "iconName": { "key": "Occupant Evacuated", "label": "" },
+      "iconDesc": "AAI",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAJ",
+      "iconName": { "key": "Occupant Rescued", "label": "" },
+      "iconDesc": "AAJ",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAK",
+      "iconName": { "key": "Occupant Follow-Up Form", "label": "" },
+      "iconDesc": "AAK",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAL",
+      "iconName": { "key": "Human Remains", "label": "" },
+      "iconDesc": "AAL",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAM",
+      "iconName": { "key": "Human Remains Removed", "label": "" },
+      "iconDesc": "AAM",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAN",
+      "iconName": { "key": "Animal Issue", "label": "" },
+      "iconDesc": "AAN",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAO",
+      "iconName": { "key": "Fire Incident", "label": "" },
+      "iconDesc": "AAO",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAP",
+      "iconName": { "key": "Flood/Water Level", "label": "" },
+      "iconDesc": "AAP",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAQ",
+      "iconName": { "key": "Route Blocked", "label": "" },
+      "iconDesc": "AAQ",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAR",
+      "iconName": { "key": "HazMat Incident", "label": "" },
+      "iconDesc": "AAR",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAS",
+      "iconName": { "key": "Helicopter Landing Zone (LZ)", "label": "" },
+      "iconDesc": "AAS",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAT",
+      "iconName": { "key": "Targeted Search", "label": "" },
+      "iconDesc": "AAT",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAU",
+      "iconName": { "key": "Extra 21", "label": "" },
+      "iconDesc": "AAU",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAV",
+      "iconName": { "key": "Extra 22", "label": "" },
+      "iconDesc": "AAV",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAW",
+      "iconName": { "key": "Extra 23", "label": "" },
+      "iconDesc": "AAW",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAX",
+      "iconName": { "key": "Extra 24", "label": "" },
+      "iconDesc": "AAX",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    },
+    {
+      "iconId": "AAY",
+      "iconName": { "key": "Other (Not Assigned to Extra)", "label": "" },
+      "iconDesc": "AAY",
+      "category": { "key": "USARStandardSymbols", "label": "نمادهای استاندارد USAR" }
+    }
+  ]
+}

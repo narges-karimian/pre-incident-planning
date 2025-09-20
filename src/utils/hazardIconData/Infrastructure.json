@@ -1,0 +1,1391 @@
+{
+  "Infrastructure": [
+    {
+      "iconId": "LAA",
+      "iconName": { "key": "Animal Aquaculture Facilities", "label": "" },
+      "iconDesc": "LAA",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAB",
+      "iconName": { "key": "Animal Slaughtering and Processing Facilities", "label": "" },
+      "iconDesc": "LAB",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAC",
+      "iconName": { "key": "Beef Cattle Ranches and Farms", "label": "" },
+      "iconDesc": "LAC",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAD",
+      "iconName": { "key": "Botanical and Zoological Gardens", "label": "" },
+      "iconDesc": "LAD",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAE",
+      "iconName": { "key": "Cattle Feedlots", "label": "" },
+      "iconDesc": "LAE",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAF",
+      "iconName": { "key": "Dairy Cattle Farms", "label": "" },
+      "iconDesc": "LAF",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAG",
+      "iconName": { "key": "Fruit and Tree Nut Farms", "label": "" },
+      "iconDesc": "LAG",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAH",
+      "iconName": {
+        "key": "Greenhouse Nursery and Floriculture Production Facilities",
+        "label": ""
+      },
+      "iconDesc": "LAH",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAI",
+      "iconName": { "key": "Hog and Pig Farms", "label": "" },
+      "iconDesc": "LAI",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAJ",
+      "iconName": { "key": "Hunting Trapping and Game Propagation Facilities", "label": "" },
+      "iconDesc": "LAJ",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAK",
+      "iconName": { "key": "Oilseed and Grain Farms", "label": "" },
+      "iconDesc": "LAK",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAL",
+      "iconName": { "key": "Other Crop Farms", "label": "" },
+      "iconDesc": "LAL",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAM",
+      "iconName": { "key": "Poultry and Egg Production Farms", "label": "" },
+      "iconDesc": "LAM",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAN",
+      "iconName": { "key": "Poultry Slaughtering and Processing Facilities", "label": "" },
+      "iconDesc": "LAN",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAO",
+      "iconName": { "key": "State Fairgrounds", "label": "" },
+      "iconDesc": "LAO",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LAP",
+      "iconName": { "key": "Vegetable and Melon Farms", "label": "" },
+      "iconDesc": "LAP",
+      "category": { "key": "Agriculture", "label": "کشاورزی" }
+    },
+    {
+      "iconId": "LBA",
+      "iconName": { "key": "Canada and Mexico Border Crossing", "label": "" },
+      "iconDesc": "LBA",
+      "category": { "key": "Border", "label": "مرز" }
+    },
+    {
+      "iconId": "LBB",
+      "iconName": { "key": "US Ports of Entry", "label": "" },
+      "iconDesc": "LBB",
+      "category": { "key": "Border", "label": "مرز" }
+    },
+    {
+      "iconId": "LCA",
+      "iconName": { "key": "Phosphatic Fertilizer Plants", "label": "" },
+      "iconDesc": "LCA",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LCB",
+      "iconName": { "key": "Nitrogenous Fertilizer Plants", "label": "" },
+      "iconDesc": "LCB",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LCC",
+      "iconName": { "key": "Chemical Manufacturing Facilities", "label": "" },
+      "iconDesc": "LCC",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LCD",
+      "iconName": { "key": "Explosives Manufacturing Facilities", "label": "" },
+      "iconDesc": "LCD",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LCE",
+      "iconName": { "key": "Hazardous Manufacturing", "label": "" },
+      "iconDesc": "LCE",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LCF",
+      "iconName": { "key": "Pharmaceutical Preparation Manufacturing Facilities", "label": "" },
+      "iconDesc": "LCF",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LCG",
+      "iconName": {
+        "key": "EPA Comprehensive Environmental Response Compensation and Liability Information System Facilities",
+        "label": ""
+      },
+      "iconDesc": "LCG",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LCH",
+      "iconName": { "key": "Biological Products Manufacturing Facilities", "label": "" },
+      "iconDesc": "LCH",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LCI",
+      "iconName": { "key": "Solid Waste Landfill Facilities", "label": "" },
+      "iconDesc": "LCI",
+      "category": { "key": "Chemical", "label": "شیمیایی" }
+    },
+    {
+      "iconId": "LDA",
+      "iconName": { "key": "Hotel and Motel", "label": "" },
+      "iconDesc": "LDA",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDB",
+      "iconName": { "key": "Convenience Store", "label": "" },
+      "iconDesc": "LDB",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDC",
+      "iconName": { "key": "Grocery Store", "label": "" },
+      "iconDesc": "LDC",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDD",
+      "iconName": { "key": "Hardware Store", "label": "" },
+      "iconDesc": "LDD",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDE",
+      "iconName": { "key": "Malls and Shopping Centers", "label": "" },
+      "iconDesc": "LDE",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDF",
+      "iconName": { "key": "Store", "label": "" },
+      "iconDesc": "LDF",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDG",
+      "iconName": { "key": "Clothing Store", "label": "" },
+      "iconDesc": "LDG",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDH",
+      "iconName": { "key": "Office Supply and Service Store", "label": "" },
+      "iconDesc": "LDH",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDI",
+      "iconName": { "key": "Book Store", "label": "" },
+      "iconDesc": "LDI",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDJ",
+      "iconName": { "key": "Home Improvement and Hardware Store", "label": "" },
+      "iconDesc": "LDJ",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LDK",
+      "iconName": { "key": "Sporting Goods Store", "label": "" },
+      "iconDesc": "LDK",
+      "category": { "key": "Commercial", "label": "تجاری" }
+    },
+    {
+      "iconId": "LEA",
+      "iconName": { "key": "AM Transmission Towers", "label": "" },
+      "iconDesc": "LEA",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEB",
+      "iconName": { "key": "Antenna Structure Registrate", "label": "" },
+      "iconDesc": "LEB",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEC",
+      "iconName": { "key": "Cellular Towers", "label": "" },
+      "iconDesc": "LEC",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LED",
+      "iconName": { "key": "FM Transmission Towers", "label": "" },
+      "iconDesc": "LED",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEE",
+      "iconName": { "key": "Microwave Service Towers", "label": "" },
+      "iconDesc": "LEE",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEF",
+      "iconName": { "key": "Land Mobile Broadcast Towers", "label": "" },
+      "iconDesc": "LEF",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEG",
+      "iconName": { "key": "Land Mobile Commercial Transmission Towers", "label": "" },
+      "iconDesc": "LEG",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEH",
+      "iconName": { "key": "Land Mobile Private Transmission Towers", "label": "" },
+      "iconDesc": "LEH",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEI",
+      "iconName": { "key": "Transmission Towers, Mobile", "label": "" },
+      "iconDesc": "LEI",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEJ",
+      "iconName": { "key": "Paging Transmission Towers", "label": "" },
+      "iconDesc": "LEJ",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEK",
+      "iconName": { "key": "Transmission Towers, Generic", "label": "" },
+      "iconDesc": "LEK",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEL",
+      "iconName": { "key": "Television Transmission Station Analog", "label": "" },
+      "iconDesc": "LEL",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LEM",
+      "iconName": { "key": "Television Transmission Station Digital", "label": "" },
+      "iconDesc": "LEM",
+      "category": { "key": "Communications", "label": "ارتباطات" }
+    },
+    {
+      "iconId": "LFA",
+      "iconName": { "key": "Child Care Centers", "label": "" },
+      "iconDesc": "LFA",
+      "category": { "key": "Education", "label": "آموزش" }
+    },
+    {
+      "iconId": "LFB",
+      "iconName": { "key": "Public Schools", "label": "" },
+      "iconDesc": "LFB",
+      "category": { "key": "Education", "label": "آموزش" }
+    },
+    {
+      "iconId": "LFC",
+      "iconName": { "key": "Colleges and Universities", "label": "" },
+      "iconDesc": "LFC",
+      "category": { "key": "Education", "label": "آموزش" }
+    },
+    {
+      "iconId": "LFD",
+      "iconName": { "key": "Private Schools", "label": "" },
+      "iconDesc": "LFD",
+      "category": { "key": "Education", "label": "آموزش" }
+    },
+    {
+      "iconId": "LFE",
+      "iconName": { "key": "Public Schools", "label": "" },
+      "iconDesc": "LFE",
+      "category": { "key": "Education", "label": "آموزش" }
+    },
+    {
+      "iconId": "LFF",
+      "iconName": { "key": "Supplemental Colleges", "label": "" },
+      "iconDesc": "LFF",
+      "category": { "key": "Education", "label": "آموزش" }
+    },
+    {
+      "iconId": "LFG",
+      "iconName": { "key": "Truck Driving Schools", "label": "" },
+      "iconDesc": "LFG",
+      "category": { "key": "Education", "label": "آموزش" }
+    },
+    {
+      "iconId": "LFH",
+      "iconName": { "key": "Flight Schools", "label": "" },
+      "iconDesc": "LFH",
+      "category": { "key": "Education", "label": "آموزش" }
+    },
+    {
+      "iconId": "LGA",
+      "iconName": { "key": "911 Communications Center", "label": "" },
+      "iconDesc": "LGA",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGB",
+      "iconName": { "key": "Emergency Animal Shelter", "label": "" },
+      "iconDesc": "LGB",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGC",
+      "iconName": { "key": "National Shelter System Facilities", "label": "" },
+      "iconDesc": "LGC",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGD",
+      "iconName": { "key": "Air Medical Service Providers - ADAMS", "label": "" },
+      "iconDesc": "LGD",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGE",
+      "iconName": { "key": "Emergency Medical Service (EMS) Stations", "label": "" },
+      "iconDesc": "LGE",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGF",
+      "iconName": { "key": "Fire Station", "label": "" },
+      "iconDesc": "LGF",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGG",
+      "iconName": { "key": "Emergency Services", "label": "" },
+      "iconDesc": "LGG",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGH",
+      "iconName": { "key": "Local Emergency Operations Center (EOC)", "label": "" },
+      "iconDesc": "LGH",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGI",
+      "iconName": { "key": "State Emergency Operations Centers (EOC)", "label": "" },
+      "iconDesc": "LGI",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGJ",
+      "iconName": { "key": "American Red Cross Chapter Facilities", "label": "" },
+      "iconDesc": "LGJ",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGK",
+      "iconName": { "key": "American Red Cross Headquarters", "label": "" },
+      "iconDesc": "LGK",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGL",
+      "iconName": { "key": "Federal Emergency Management Agency Recovery Offices", "label": "" },
+      "iconDesc": "LGL",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LGM",
+      "iconName": {
+        "key": "Federal Emergency Management Agency (FEMA) Regional Offices",
+        "label": ""
+      },
+      "iconDesc": "LGM",
+      "category": { "key": "EmergencyServices", "label": "خدمات اورژانس" }
+    },
+    {
+      "iconId": "LHAA",
+      "iconName": { "key": "Biodiesel Plants", "label": "" },
+      "iconDesc": "LHAA",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAB",
+      "iconName": { "key": "Coal Processing", "label": "" },
+      "iconDesc": "LHAB",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAC",
+      "iconName": { "key": "Coal Storage", "label": "" },
+      "iconDesc": "LHAC",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAD",
+      "iconName": { "key": "Diesel Plant", "label": "" },
+      "iconDesc": "LHAD",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAE",
+      "iconName": { "key": "Distribution Control Facilities", "label": "" },
+      "iconDesc": "LHAE",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAF",
+      "iconName": { "key": "Electric Vehicle Charging Station", "label": "" },
+      "iconDesc": "LHAF",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAG",
+      "iconName": { "key": "Power Plants", "label": "" },
+      "iconDesc": "LHAG",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAH",
+      "iconName": { "key": "Electricity Substations", "label": "" },
+      "iconDesc": "LHAH",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAI",
+      "iconName": { "key": "Ethanol Plants", "label": "" },
+      "iconDesc": "LHAI",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAJ",
+      "iconName": { "key": "Ethanol Transloading Facilities", "label": "" },
+      "iconDesc": "LHAJ",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAK",
+      "iconName": { "key": "Liquefied Natural Gas Import Exports and Terminals", "label": "" },
+      "iconDesc": "LHAK",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAL",
+      "iconName": { "key": "Natural Gas Compressor Stations", "label": "" },
+      "iconDesc": "LHAL",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAM",
+      "iconName": { "key": "Natural Gas Import and Export", "label": "" },
+      "iconDesc": "LHAM",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAN",
+      "iconName": { "key": "Natural Gas Market Hubs", "label": "" },
+      "iconDesc": "LHAN",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAO",
+      "iconName": { "key": "Natural Gas Receipt Delivery Points", "label": "" },
+      "iconDesc": "LHAO",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAP",
+      "iconName": { "key": "Non Gasoline Alternative Fueling Stations - Biodiesel", "label": "" },
+      "iconDesc": "LHAP",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAQ",
+      "iconName": { "key": "Non Gasoline Alternative Fueling Stations - Hydrogen", "label": "" },
+      "iconDesc": "LHAQ",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAR",
+      "iconName": {
+        "key": "Non Gasoline Alternative Fueling Stations - Liquefied Propane Gas",
+        "label": ""
+      },
+      "iconDesc": "LHAR",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAS",
+      "iconName": {
+        "key": "Non Gasoline Alternative Fueling Stations - Liquefied Natural Gas",
+        "label": ""
+      },
+      "iconDesc": "LHAS",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAT",
+      "iconName": {
+        "key": "Non Gasoline Alternative Fueling Stations - M85 Methanol",
+        "label": ""
+      },
+      "iconDesc": "LHAT",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAU",
+      "iconName": { "key": "Non Gasoline Alternative Fueling Stations - Ethanol E85", "label": "" },
+      "iconDesc": "LHAU",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAV",
+      "iconName": {
+        "key": "Non Gasoline Alternative Fueling Stations - Electric Charging Station",
+        "label": ""
+      },
+      "iconDesc": "LHAV",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAW",
+      "iconName": {
+        "key": "Non Gasoline Alternative Fueling Stations - Compressed Natural Gas",
+        "label": ""
+      },
+      "iconDesc": "LHAW",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAX",
+      "iconName": { "key": "Natural Gas Processing Plants", "label": "" },
+      "iconDesc": "LHAX",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAY",
+      "iconName": { "key": "Natural Gas Storage Facilities", "label": "" },
+      "iconDesc": "LHAY",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHAZ",
+      "iconName": { "key": "Natural Gas", "label": "" },
+      "iconDesc": "LHAZ",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBA",
+      "iconName": { "key": "Oil and Natural Gas Interconnects", "label": "" },
+      "iconDesc": "LHBA",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBB",
+      "iconName": { "key": "Oil and Natural Gas Platforms", "label": "" },
+      "iconDesc": "LHBB",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBC",
+      "iconName": { "key": "Oil and Natural Gas Wells", "label": "" },
+      "iconDesc": "LHBC",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBD",
+      "iconName": { "key": "Oil Refineries", "label": "" },
+      "iconDesc": "LHBD",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBE",
+      "iconName": { "key": "Outer Continental Shelf (OCS) Drilling Platforms", "label": "" },
+      "iconDesc": "LHBE",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBF",
+      "iconName": { "key": "Outer Continental Shelf (OCS) Oil and Natural Gas Wells", "label": "" },
+      "iconDesc": "LHBF",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBG",
+      "iconName": { "key": "Petroleum Ports", "label": "" },
+      "iconDesc": "LHBG",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBH",
+      "iconName": { "key": "Petroleum Processing", "label": "" },
+      "iconDesc": "LHBH",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBI",
+      "iconName": {
+        "key": "Petroleum, Oil and Lubricant (POL) Terminals, Storage Facilities, Tank Farms",
+        "label": ""
+      },
+      "iconDesc": "LHBI",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBJ",
+      "iconName": { "key": "POL Pumping Stations", "label": "" },
+      "iconDesc": "LHBJ",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBK",
+      "iconName": { "key": "Propane Retailer Locations", "label": "" },
+      "iconDesc": "LHBK",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBL",
+      "iconName": { "key": "Strategic and Petroleum Reserves", "label": "" },
+      "iconDesc": "LHBL",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBM",
+      "iconName": { "key": "Gas Station", "label": "" },
+      "iconDesc": "LHBM",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBN",
+      "iconName": { "key": "Energy", "label": "" },
+      "iconDesc": "LHBN",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBO",
+      "iconName": { "key": "Coal", "label": "" },
+      "iconDesc": "LHBO",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBP",
+      "iconName": { "key": "Electricity", "label": "" },
+      "iconDesc": "LHBP",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBQ",
+      "iconName": { "key": "Nuclear Research Facility", "label": "" },
+      "iconDesc": "LHBQ",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBR",
+      "iconName": { "key": "Nuclear Power Plant", "label": "" },
+      "iconDesc": "LHBR",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LHBS",
+      "iconName": { "key": "Nuclear Fuel Plant", "label": "" },
+      "iconDesc": "LHBS",
+      "category": { "key": "Energy", "label": "انرژی" }
+    },
+    {
+      "iconId": "LIA",
+      "iconName": { "key": "FDIC Insured Banks", "label": "" },
+      "iconDesc": "LIA",
+      "category": { "key": "Finance", "label": "امور مالی" }
+    },
+    {
+      "iconId": "LIB",
+      "iconName": { "key": "NCUA Insured Credit Unions", "label": "" },
+      "iconDesc": "LIB",
+      "category": { "key": "Finance", "label": "امور مالی" }
+    },
+    {
+      "iconId": "LJA",
+      "iconName": { "key": "Public Refrigerated Warehouses", "label": "" },
+      "iconDesc": "LJA",
+      "category": { "key": "FoodIndustry", "label": "صنایع غذایی" }
+    },
+    {
+      "iconId": "LKA",
+      "iconName": { "key": "City Hall", "label": "" },
+      "iconDesc": "LKA",
+      "category": { "key": "Government", "label": "دولت" }
+    },
+    {
+      "iconId": "LKB",
+      "iconName": { "key": "Courthouse", "label": "" },
+      "iconDesc": "LKB",
+      "category": { "key": "Government", "label": "دولت" }
+    },
+    {
+      "iconId": "LKC",
+      "iconName": { "key": "Major State Governmental Facilities", "label": "" },
+      "iconDesc": "LKC",
+      "category": { "key": "Government", "label": "دولت" }
+    },
+    {
+      "iconId": "LKD",
+      "iconName": { "key": "Governmental Facility", "label": "" },
+      "iconDesc": "LKD",
+      "category": { "key": "Government", "label": "دولت" }
+    },
+    {
+      "iconId": "LKE",
+      "iconName": { "key": "State Capitol Buildings", "label": "" },
+      "iconDesc": "LKE",
+      "category": { "key": "Government", "label": "دولت" }
+    },
+    {
+      "iconId": "LKF",
+      "iconName": { "key": "Joint Operation Centers (JOC)", "label": "" },
+      "iconDesc": "LKF",
+      "category": { "key": "Government", "label": "دولت" }
+    },
+    {
+      "iconId": "LKG",
+      "iconName": { "key": "Weather Radar Stations", "label": "" },
+      "iconDesc": "LKG",
+      "category": { "key": "Government", "label": "دولت" }
+    },
+    {
+      "iconId": "LLA",
+      "iconName": { "key": "Bureau of Alcohol Tobacco and Firearms", "label": "" },
+      "iconDesc": "LLA",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLB",
+      "iconName": {
+        "key": "Department of Interior (DOI) Bureau of Indian Affairs (BIA) Law Enforcement Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLB",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLC",
+      "iconName": {
+        "key": "Department of Interior (DOI) Bureau of Land Management (BLM) Law Enforcement Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLC",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLD",
+      "iconName": {
+        "key": "Department of Interior (DOI) Bureau of Reclamation (BOR) Law Enforcement Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLD",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLE",
+      "iconName": {
+        "key": "Department of Interior (DOI) Fish and Wildlife Service (FWS) Law Enforcement Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLE",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLF",
+      "iconName": {
+        "key": "Department of Interior (DOI) National Park Service (NPS) Law Enforcement Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLF",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLG",
+      "iconName": {
+        "key": "Department of Interior (DOI) US-Park Police (USPP) Law Enforcement Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLG",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLH",
+      "iconName": { "key": "Drug Enforcement Agency", "label": "" },
+      "iconDesc": "LLH",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLI",
+      "iconName": { "key": "Federal Bureau of Investigaton (FBI) Offices", "label": "" },
+      "iconDesc": "LLI",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLJ",
+      "iconName": {
+        "key": "Department of Homeland Security (DHS) Immigration and Customs Enforcement (ICE) Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLJ",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLK",
+      "iconName": {
+        "key": "US Customs and Border Protection (CBP) Office of Field Operations OFO Container Security Initiative CSI Locations",
+        "label": ""
+      },
+      "iconDesc": "LLK",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLL",
+      "iconName": {
+        "key": "US Customs and Border Protection (CBP) Office of Field Operations OFO Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLL",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLM",
+      "iconName": {
+        "key": "US Customs and Border Protection (CBP) Office of Field Operations OFO Sector Headquarters",
+        "label": ""
+      },
+      "iconDesc": "LLM",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLN",
+      "iconName": {
+        "key": "US Customs and Border Protection (CBP) US Border Patrol USBP Stations",
+        "label": ""
+      },
+      "iconDesc": "LLN",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLO",
+      "iconName": { "key": "Law Enforcement Locations", "label": "" },
+      "iconDesc": "LLO",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLP",
+      "iconName": { "key": "US Marshal Service", "label": "" },
+      "iconDesc": "LLP",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLQ",
+      "iconName": {
+        "key": "US Postal Service (USPS) Postal Inspection Service Facilities",
+        "label": ""
+      },
+      "iconDesc": "LLQ",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LLR",
+      "iconName": { "key": "Law, Generic", "label": "" },
+      "iconDesc": "LLR",
+      "category": { "key": "LawEnforcement", "label": "اجرای قانون" }
+    },
+    {
+      "iconId": "LMA",
+      "iconName": { "key": "Tsunami Tide Gauges", "label": "" },
+      "iconDesc": "LMA",
+      "category": { "key": "NaturalHazardInfrastructure", "label": "زیرساخت‌های مخاطرات طبیعی" }
+    },
+    {
+      "iconId": "LMB",
+      "iconName": { "key": "Streamflow Gaging Stations", "label": "" },
+      "iconDesc": "LMB",
+      "category": { "key": "NaturalHazardInfrastructure", "label": "زیرساخت‌های مخاطرات طبیعی" }
+    },
+    {
+      "iconId": "LNA",
+      "iconName": { "key": "Nursing Home", "label": "" },
+      "iconDesc": "LNA",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNB",
+      "iconName": { "key": "Blood and Organ Banks", "label": "" },
+      "iconDesc": "LNB",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNC",
+      "iconName": { "key": "Cemeteries and Crematories", "label": "" },
+      "iconDesc": "LNC",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LND",
+      "iconName": { "key": "Funeral Homes and Funeral Service Facilities", "label": "" },
+      "iconDesc": "LND",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNE",
+      "iconName": { "key": "Hospitals", "label": "" },
+      "iconDesc": "LNE",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNF",
+      "iconName": { "key": "Pharmacies", "label": "" },
+      "iconDesc": "LNF",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNG",
+      "iconName": { "key": "Public Health Departments", "label": "" },
+      "iconDesc": "LNG",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNH",
+      "iconName": { "key": "Centers for Disease Control", "label": "" },
+      "iconDesc": "LNH",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNI",
+      "iconName": { "key": "Kidney Dialysis Centers", "label": "" },
+      "iconDesc": "LNI",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNJ",
+      "iconName": { "key": "Urgent Care Facilities", "label": "" },
+      "iconDesc": "LNJ",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNK",
+      "iconName": { "key": "Veterans Health Administration Medical Clinic", "label": "" },
+      "iconDesc": "LNK",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNL",
+      "iconName": { "key": "Veterans Health Administration Medical Facilities", "label": "" },
+      "iconDesc": "LNL",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LNM",
+      "iconName": { "key": "Veterinary Service Facilities", "label": "" },
+      "iconDesc": "LNM",
+      "category": { "key": "PublicHealth", "label": "سلامت عمومی" }
+    },
+    {
+      "iconId": "LOA",
+      "iconName": { "key": "Major Sport Venues", "label": "" },
+      "iconDesc": "LOA",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOB",
+      "iconName": { "key": "State, County and Local Parks", "label": "" },
+      "iconDesc": "LOB",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOC",
+      "iconName": { "key": "Mobile Home Park", "label": "" },
+      "iconDesc": "LOC",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOD",
+      "iconName": { "key": "All Places of Worship", "label": "" },
+      "iconDesc": "LOD",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOE",
+      "iconName": { "key": "Amusement and Theme Parks", "label": "" },
+      "iconDesc": "LOE",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOF",
+      "iconName": { "key": "Campground", "label": "" },
+      "iconDesc": "LOF",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOG",
+      "iconName": { "key": "Casinos", "label": "" },
+      "iconDesc": "LOG",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOH",
+      "iconName": { "key": "Catholic Churches", "label": "" },
+      "iconDesc": "LOH",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOI",
+      "iconName": { "key": "Community Centers", "label": "" },
+      "iconDesc": "LOI",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOJ",
+      "iconName": { "key": "Convention Centers", "label": "" },
+      "iconDesc": "LOJ",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOK",
+      "iconName": { "key": "Cruise Line Terminals", "label": "" },
+      "iconDesc": "LOK",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOL",
+      "iconName": { "key": "Drinking Establishments", "label": "" },
+      "iconDesc": "LOL",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOM",
+      "iconName": { "key": "Golf Courses", "label": "" },
+      "iconDesc": "LOM",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LON",
+      "iconName": { "key": "Highways Rest Areas", "label": "" },
+      "iconDesc": "LON",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOO",
+      "iconName": { "key": "Historic Sites", "label": "" },
+      "iconDesc": "LOO",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOP",
+      "iconName": { "key": "Jewish Synagogues", "label": "" },
+      "iconDesc": "LOP",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOQ",
+      "iconName": { "key": "Libraries", "label": "" },
+      "iconDesc": "LOQ",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOR",
+      "iconName": { "key": "Marinas", "label": "" },
+      "iconDesc": "LOR",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOS",
+      "iconName": { "key": "Mosques", "label": "" },
+      "iconDesc": "LOS",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOT",
+      "iconName": { "key": "Museums", "label": "" },
+      "iconDesc": "LOT",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOU",
+      "iconName": { "key": "Protestant Churches", "label": "" },
+      "iconDesc": "LOU",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOV",
+      "iconName": { "key": "Ski Resorts", "label": "" },
+      "iconDesc": "LOV",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOW",
+      "iconName": { "key": "Theater and Performing Arts Centers", "label": "" },
+      "iconDesc": "LOW",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOX",
+      "iconName": { "key": "Tourist Attractions", "label": "" },
+      "iconDesc": "LOX",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LOY",
+      "iconName": { "key": "Vineyards and Wineries", "label": "" },
+      "iconDesc": "LOY",
+      "category": { "key": "PublicVenue", "label": "مکان‌های عمومی" }
+    },
+    {
+      "iconId": "LPA",
+      "iconName": { "key": "Aerial Obstructions", "label": "" },
+      "iconDesc": "LPA",
+      "category": { "key": "TransportationAir", "label": "حمل و نقل، هوایی" }
+    },
+    {
+      "iconId": "LPB",
+      "iconName": { "key": "Aircraft Landing Facilities, Commercial", "label": "" },
+      "iconDesc": "LPB",
+      "category": { "key": "TransportationAir", "label": "حمل و نقل، هوایی" }
+    },
+    {
+      "iconId": "LPC",
+      "iconName": { "key": "Aircraft Landing Facilities, General Aviation", "label": "" },
+      "iconDesc": "LPC",
+      "category": { "key": "TransportationAir", "label": "حمل و نقل، هوایی" }
+    },
+    {
+      "iconId": "LPD",
+      "iconName": { "key": "Aircraft Landing Facilities, Heliport", "label": "" },
+      "iconDesc": "LPD",
+      "category": { "key": "TransportationAir", "label": "حمل و نقل، هوایی" }
+    },
+    {
+      "iconId": "LPE",
+      "iconName": { "key": "Aircraft Landing Facilities, Seaplane", "label": "" },
+      "iconDesc": "LPE",
+      "category": { "key": "TransportationAir", "label": "حمل و نقل، هوایی" }
+    },
+    {
+      "iconId": "LPF",
+      "iconName": { "key": "Aircraft Landing Facilities, Balloon Port", "label": "" },
+      "iconDesc": "LPF",
+      "category": { "key": "TransportationAir", "label": "حمل و نقل، هوایی" }
+    },
+    {
+      "iconId": "LPG",
+      "iconName": { "key": "Aircraft Landing Facilities, Glider Port", "label": "" },
+      "iconDesc": "LPG",
+      "category": { "key": "TransportationAir", "label": "حمل و نقل، هوایی" }
+    },
+    {
+      "iconId": "LPH",
+      "iconName": { "key": "Aircraft Landing Facilities, Ultralight", "label": "" },
+      "iconDesc": "LPH",
+      "category": { "key": "TransportationAir", "label": "حمل و نقل، هوایی" }
+    },
+    {
+      "iconId": "LQA",
+      "iconName": { "key": "Amtrak Stations - Train", "label": "" },
+      "iconDesc": "LQA",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQB",
+      "iconName": { "key": "Amtrak Stations - Bus", "label": "" },
+      "iconDesc": "LQB",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQC",
+      "iconName": { "key": "Railroad Bridges", "label": "" },
+      "iconDesc": "LQC",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQD",
+      "iconName": { "key": "Rail Junctions", "label": "" },
+      "iconDesc": "LQD",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQE",
+      "iconName": { "key": "Railroad Yards", "label": "" },
+      "iconDesc": "LQE",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQF",
+      "iconName": { "key": "National Bridge Inventory (NBI) Bridges", "label": "" },
+      "iconDesc": "LQF",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQG",
+      "iconName": { "key": "Bus Station", "label": "" },
+      "iconDesc": "LQG",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQH",
+      "iconName": { "key": "Railroad Stations, Line Haul Railroads", "label": "" },
+      "iconDesc": "LQH",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQI",
+      "iconName": { "key": "Railroad Stations, Commuter Rail Systems", "label": "" },
+      "iconDesc": "LQI",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQJ",
+      "iconName": { "key": "Intermodal Terminal Facilities", "label": "" },
+      "iconDesc": "LQJ",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQK",
+      "iconName": { "key": "Road and Railroad Tunnels", "label": "" },
+      "iconDesc": "LQK",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LQL",
+      "iconName": { "key": "Fixed Guideway Transit Stations", "label": "" },
+      "iconDesc": "LQL",
+      "category": { "key": "TransportationGround", "label": "حمل و نقل، زمینی" }
+    },
+    {
+      "iconId": "LRA",
+      "iconName": { "key": "Ferry Locations", "label": "" },
+      "iconDesc": "LRA",
+      "category": { "key": "TransportationWater", "label": "حمل و نقل، آبی" }
+    },
+    {
+      "iconId": "LRB",
+      "iconName": { "key": "Major US Port Facilities", "label": "" },
+      "iconDesc": "LRB",
+      "category": { "key": "TransportationWater", "label": "حمل و نقل، آبی" }
+    },
+
+    {
+      "iconId": "LSA",
+      "iconName": { "key": "Air Water Solid Waste Management Plants", "label": "" },
+      "iconDesc": "LSA",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSB",
+      "iconName": { "key": "Drinking Water Source", "label": "" },
+      "iconDesc": "LSB",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSC",
+      "iconName": { "key": "Drinking Water Source, Federal Government", "label": "" },
+      "iconDesc": "LSC",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSD",
+      "iconName": { "key": "Drinking Water Source, Local Government", "label": "" },
+      "iconDesc": "LSD",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSE",
+      "iconName": { "key": "Drinking Water Source, Native American", "label": "" },
+      "iconDesc": "LSE",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSF",
+      "iconName": { "key": "Drinking Water Source, Private", "label": "" },
+      "iconDesc": "LSF",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSG",
+      "iconName": { "key": "Drinking Water Source, Public Private", "label": "" },
+      "iconDesc": "LSG",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSH",
+      "iconName": { "key": "Drinking Water Source, State Government", "label": "" },
+      "iconDesc": "LSH",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSI",
+      "iconName": { "key": "Drinking Water Storage", "label": "" },
+      "iconDesc": "LSI",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSJ",
+      "iconName": {
+        "key": "Environmental Protection Agency (EPA) Facility Registry Service (FRS) Wastewater Treatment Plants",
+        "label": ""
+      },
+      "iconDesc": "LSJ",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSK",
+      "iconName": {
+        "key": "Water System Community Water System, Drinking Water Treatment Plants",
+        "label": ""
+      },
+      "iconDesc": "LSK",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    },
+    {
+      "iconId": "LSL",
+      "iconName": {
+        "key": "Water System Non Transient non community system, Drinking Water Treatment Plants",
+        "label": ""
+      },
+      "iconDesc": "LSL",
+      "category": { "key": " WaterSupply", "label": "تامین آب" }
+    }
+  ]
+}

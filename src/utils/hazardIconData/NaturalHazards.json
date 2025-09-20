@@ -1,0 +1,76 @@
+{
+  "NaturalHazards": [
+    {
+      "iconId": "IAA",
+      "iconName": { "key": "Avalanche", "label": "" },
+      "iconDesc": "IAA",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAB",
+      "iconName": { "key": "Earthquake", "label": "" },
+      "iconDesc": "IAB",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAC",
+      "iconName": { "key": "Flood", "label": "" },
+      "iconDesc": "IAC",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAD",
+      "iconName": { "key": "Hurricane", "label": "" },
+      "iconDesc": "IAD",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAE",
+      "iconName": { "key": "Landslide", "label": "" },
+      "iconDesc": "IAE",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAF",
+      "iconName": { "key": "Mine Collapse", "label": "" },
+      "iconDesc": "IAF",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAG",
+      "iconName": { "key": "Severe or Extreme Storm", "label": "" },
+      "iconDesc": "IAG",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAH",
+      "iconName": { "key": "Snow Event", "label": "" },
+      "iconDesc": "IAH",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAI",
+      "iconName": { "key": "Tornado", "label": "" },
+      "iconDesc": "IAI",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAJ",
+      "iconName": { "key": "Tsunami", "label": "" },
+      "iconDesc": "IAJ",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAK",
+      "iconName": { "key": "Volcano", "label": "" },
+      "iconDesc": "IAK",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    },
+    {
+      "iconId": "IAL",
+      "iconName": { "key": "Windstorm", "label": "" },
+      "iconDesc": "IAL",
+      "category": { "key": "NaturalHazards", "label": "خطرات طبیعی" }
+    }
+  ]
+}
