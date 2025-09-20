@@ -1,3 +1,17 @@
+@import 'leaflet-draw/dist/leaflet.draw.css';
+@import 'leaflet/dist/leaflet.css';
+
+@font-face {
+  font-family: iranSans;
+  src: url(./fonts/iran-sans/IRANSansX-Regular.woff2);
+}
+
+@font-face {
+  font-family: iranSans;
+  weight: 700;
+  src: url(./fonts/iran-sans/IRANSansX-Bold.woff2);
+}
+
 // app global css in SCSS form
 @font-face {
   font-family: YekanBakh;
@@ -29,11 +43,11 @@
 }
 
 .my-font {
-  font-family: 'YekanBakh', 'Peyda';
+  font-family: 'iranSans', 'YekanBakh', 'Peyda';
 }
 
 body {
-  font-family: 'YekanBakh', 'Peyda';
+  font-family: 'iranSans', 'YekanBakh', 'Peyda';
 }
 
 .rounded-border-lg {
