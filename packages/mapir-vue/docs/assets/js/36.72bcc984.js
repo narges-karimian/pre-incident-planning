@@ -1,4 +1,0 @@
-(window.webpackJsonp = window.webpackJsonp || []).push([
-  [36],
-  { 9: function(n, w, o) {} }
-]);
